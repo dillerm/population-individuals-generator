@@ -1,0 +1,363 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000001455 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001455">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001454"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001458 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001458">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Jersey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Jersey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001457"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001461 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001461">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of China, Macao Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of China, Macao Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001460"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001464 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001464">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Sint Maarten (Dutch part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Sint Maarten (Dutch part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001463"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001467 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001467">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint Pierre and Miquelon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint Pierre and Miquelon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001466"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001470 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001470">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Gibraltar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Gibraltar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001469"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001473 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001473">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Faeroe Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Faeroe Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001472"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001476 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001476">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tristan da Cunha</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tristan da Cunha</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001475"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001479 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001479">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001478"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001482 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001482">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tokelau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tokelau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001481"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001485 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001485">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Niue</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Niue</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001484"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001488 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001488">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Norfolk Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Norfolk Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001487"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001491 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001491">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Wallis and Futuna Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Wallis and Futuna Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001490"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001494 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001494">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Réunion</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Réunion</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001493"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001497 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001497">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint Helena</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint Helena</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001496"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001500 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001500">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Isle of Man</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Isle of Man</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001499"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001503 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001503">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint-Martin (French part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint-Martin (French part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001502"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001506 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001506">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Svalbard and Jan Mayen Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Svalbard and Jan Mayen Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001505"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001509 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001509">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Åland Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Åland Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001508"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001512 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001512">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Curaçao</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Curaçao</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001511"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001515 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001515">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Guernsey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Guernsey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001514"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001518 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001518">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tristan da Cunha Island Group</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tristan da Cunha Island Group</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001517"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001521 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001521">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of China, Hong Kong Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of China, Hong Kong Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001520"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001524 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001524">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ascension Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ascension Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001523"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001527 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001527">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Pitcairn</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Pitcairn</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001526"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001530 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001530">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Montserrat </rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Montserrat </obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001529"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001533 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001533">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Falkland Islands (Malvinas)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Falkland Islands (Malvinas)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001532"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001536 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001536">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Greenland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Greenland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001535"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001539 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001539">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Cook Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Cook Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001538"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001542 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001542">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of New Caledonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of New Caledonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001541"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001545 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001545">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Occupied Palestinian Territory</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Occupied Palestinian Territory</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001544"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001548 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001548">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint Helena Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint Helena Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001547"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001551 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001551">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of French Polynesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of French Polynesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001550"/>
+	</owl:NamedIndividual>
+
+
+

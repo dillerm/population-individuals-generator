@@ -1,0 +1,143 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000002135 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002135">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000728"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002136 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002136">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Viet Nam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Viet Nam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000776"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002137 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002137">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Martinique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Martinique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001188"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002138 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002138">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in French Polynesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of French Polynesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001551"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002139 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002139">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Guadeloupe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Guadeloupe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001186"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002140 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002140">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002141 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002141">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002142 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002142">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000730"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002143 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002143">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000631"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002144 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002144">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Tonga</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Tonga</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000754"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002145 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002145">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000789"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002146 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002146">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000637"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002147 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002147">
+		<rdf:type rdf:resource="&obc;IDE_0000000014"/>
+		<rdfs:label xml:lang="en">Zika virus in American Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Zika virus population in region of American Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001562"/>
+	</owl:NamedIndividual>
+
+
+

@@ -1,0 +1,2475 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000004329 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004329">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Myanmar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Myanmar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000756"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004330 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004330">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Lebanon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Lebanon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000785"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004331 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004331">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Sweden</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Sweden</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000741"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004332 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004332">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Curaçao</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Curaçao</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001512"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004333 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004333">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000757"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004334 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004334">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in San Marino</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of San Marino</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000739"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004335 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004335">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bermuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bermuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001178"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004336 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004336">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Venezuela</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Venezuela</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000147"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004337 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004337">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Grenada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Grenada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000636"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004338 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004338">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000766"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004339 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004339">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000772"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004340 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004340">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000732"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004341 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004341">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Libyan Arab Jamahiriya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Libyan Arab Jamahiriya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000714"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004342 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004342">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Turkmenistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Turkmenistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000729"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004343 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004343">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000728"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004344 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004344">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000701"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004345 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004345">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Norfolk Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Norfolk Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001488"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004346 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004346">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in French Polynesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of French Polynesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001551"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004347 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004347">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004348 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004348">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Angola</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Angola</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000663"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004349 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004349">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bahamas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bahamas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000783"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004350 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004350">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Anguilla</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Anguilla</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001173"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004351 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004351">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Malaysia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Malaysia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000745"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004352 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004352">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Palau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Palau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000706"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004353 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004353">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Greenland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Greenland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001536"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004354 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004354">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in The former Yugoslav Republic of Macedonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of The former Yugoslav Republic of Macedonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000613"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004355 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004355">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000637"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004356 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004356">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Martinique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Martinique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001188"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004357 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004357">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000632"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004358 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004358">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Nigeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Nigeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000072"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004359 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004359">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Russian Federation</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Russian Federation</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000720"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004360 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004360">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Norway</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Norway</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000661"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004361 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004361">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Philippines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Philippines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000748"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004362 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004362">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint Kitts and Nevis</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint Kitts and Nevis</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000645"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004363 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004363">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Turks and Caicos Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Turks and Caicos Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001198"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004364 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004364">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000615"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004365 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004365">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Tunisia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Tunisia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000620"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004366 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004366">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Morocco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Morocco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000654"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004367 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004367">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Pitcairn</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Pitcairn</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001527"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004368 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004368">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004369 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004369">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Republic of Kosovo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Republic of Kosovo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000614"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004370 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004370">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Ethiopia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Ethiopia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000731"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004371 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004371">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in United Kingdom of Great Britain and Northern Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of United Kingdom of Great Britain and Northern Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000790"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004372 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004372">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in South Africa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of South Africa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000740"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004373 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004373">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Viet Nam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Viet Nam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000776"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004374 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004374">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Republic of Moldova</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Republic of Moldova</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000699"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004375 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004375">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Republic of Congo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Republic of Congo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000066"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004376 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004376">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000697"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004377 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004377">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cyprus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cyprus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000718"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004378 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004378">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bulgaria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bulgaria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000747"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004379 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004379">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000627"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004380 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004380">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bosnia and Herzegovina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bosnia and Herzegovina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000680"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004381 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004381">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000707"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004382 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004382">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Kiribati</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Kiribati</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000771"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004383 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004383">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000775"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004384 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004384">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Uruguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Uruguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000778"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004385 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004385">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Niue</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Niue</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001485"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004386 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004386">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000730"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004387 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004387">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000737"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004388 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004388">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004389 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004389">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Australia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Australia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000640"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004390 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004390">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Solomon Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Solomon Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000711"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004391 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004391">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000623"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004392 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004392">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000721"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004393 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004393">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Hungary</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Hungary</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000657"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004394 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004394">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000622"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004395 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004395">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Kuwait</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Kuwait</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000667"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004396 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004396">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004397 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004397">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Nauru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Nauru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000616"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004398 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004398">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Central African Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Central African Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000794"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004399 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004399">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Indonesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Indonesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000752"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004400 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004400">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Tuvalu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Tuvalu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000743"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004401 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004401">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Chad</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Chad</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000634"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004402 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004402">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Guadeloupe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Guadeloupe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001186"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004403 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004403">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Syrian Arab Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Syrian Arab Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000633"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004404 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004404">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Gambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Gambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000734"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004405 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004405">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cook Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cook Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001539"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004406 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004406">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Aruba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Aruba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001175"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004407 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004407">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Nepal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Nepal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000679"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004408 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004408">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Botswana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Botswana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000611"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004409 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004409">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Brazil</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Brazil</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000047"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004410 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004410">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Lithuania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Lithuania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000662"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004411 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004411">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Burundi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Burundi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000659"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004412 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004412">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bhutan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bhutan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000685"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004413 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004413">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Singapore</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Singapore</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000157"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004414 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004414">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Ghana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Ghana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000787"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004415 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004415">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Benin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Benin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000624"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004416 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004416">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000762"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004417 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004417">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Papua New Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Papua New Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000786"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004418 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004418">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in New Caledonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of New Caledonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001542"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004419 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004419">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Rwanda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Rwanda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000742"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004420 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004420">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Afghanistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Afghanistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000648"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004421 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004421">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint Helena</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint Helena</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001497"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004422 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004422">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Albania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Albania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000773"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004423 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004423">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Sao Tome and Principe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Sao Tome and Principe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000779"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004424 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004424">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in State of Palestine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of State of Palestine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000643"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004425 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004425">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cameroon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cameroon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000724"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004426 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004426">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Tanzania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Tanzania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000394"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004427 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004427">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Estonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Estonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000736"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004428 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004428">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in French Guiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of French Guiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001184"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004429 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004429">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Liechtenstein</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Liechtenstein</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000618"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004430 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004430">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000652"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004431 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004431">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Netherlands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Netherlands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000665"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004432 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004432">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000668"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004433 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004433">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mauritius</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mauritius</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000723"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004434 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004434">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000068"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004435 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004435">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Sri Lanka</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Sri Lanka</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000694"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004436 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004436">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Namibia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Namibia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000690"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004437 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004437">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in India</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of India</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000642"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004438 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004438">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Djibouti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Djibouti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000744"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004439 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004439">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Tonga</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Tonga</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000754"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004440 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004440">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Jordan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Jordan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000749"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004441 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004441">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Niger</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Niger</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000695"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004442 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004442">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in United Arab Emirates</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of United Arab Emirates</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000708"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004443 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004443">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000641"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004444 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004444">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000629"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004445 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004445">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000692"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004446 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004446">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Republic of Abkhazia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Republic of Abkhazia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000651"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004447 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004447">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Finland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Finland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000784"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004448 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004448">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Kenya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Kenya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000710"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004449 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004449">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Liberia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Liberia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000071"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004450 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004450">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000671"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004451 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004451">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000700"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004452 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004452">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000655"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004453 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004453">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Monaco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Monaco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000678"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004454 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004454">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000712"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004455 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004455">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Tajikistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Tajikistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000638"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004456 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004456">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000780"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004457 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004457">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000792"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004458 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004458">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Belarus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Belarus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000675"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004459 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004459">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Montserrat</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Montserrat</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001190"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004460 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004460">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Peru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Peru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000669"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004461 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004461">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000682"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004462 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004462">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Maldives</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Maldives</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000760"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004463 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004463">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000777"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004464 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004464">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Slovenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Slovenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000733"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004465 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004465">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000761"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004466 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004466">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Togo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Togo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000639"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004467 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004467">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Turkey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Turkey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000715"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004468 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004468">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Swaziland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Swaziland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000782"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004469 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004469">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Romania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Romania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000612"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004470 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004470">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Madagascar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Madagascar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000664"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004471 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004471">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Israel</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Israel</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000750"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004472 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004472">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Canada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Canada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000355"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004473 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004473">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Uzbekistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Uzbekistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000751"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004474 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004474">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saudi Arabia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saudi Arabia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000696"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004475 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004475">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Latvia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Latvia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000722"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004476 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004476">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint Pierre and Miquelon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint Pierre and Miquelon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001467"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004477 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004477">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Uganda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Uganda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000069"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004478 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004478">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Kyrgyzstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Kyrgyzstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000781"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004479 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004479">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in China, Hong Kong Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of China, Hong Kong Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001521"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004480 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004480">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in France</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of France</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000719"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004481 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004481">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Ukraine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Ukraine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000672"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004482 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004482">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Eritrea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Eritrea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000628"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004483 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004483">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Iraq</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Iraq</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000725"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004484 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004484">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Iran (Islamic Republic of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Iran (Islamic Republic of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000625"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004485 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004485">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Equatorial Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Equatorial Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000689"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004486 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004486">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in China, Macao Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of China, Macao Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001461"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004487 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004487">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Egypt</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Egypt</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000769"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004488 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004488">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mali</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mali</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000666"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004489 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004489">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000759"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004490 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004490">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Denmark</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Denmark</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000279"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004491 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004491">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000768"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004492 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004492">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Réunion</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Réunion</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001494"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004493 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004493">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Sint Maarten</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Sint Maarten</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001196"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004494 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004494">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Zambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Zambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000674"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004495 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004495">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mongolia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mongolia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000681"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004496 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004496">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bahrain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bahrain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000653"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004497 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004497">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Transnistria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Transnistria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000626"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004498 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004498">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Croatia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Croatia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000693"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004499 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004499">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Malawi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Malawi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000738"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004500 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004500">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Qatar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Qatar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000788"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004501 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004501">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Mauritania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Mauritania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000727"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004502 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004502">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Algeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Algeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000703"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004503 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004503">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Armenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Armenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000705"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004504 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004504">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004505 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004505">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Poland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Poland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000630"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004506 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004506">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Antigua and Barbuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Antigua and Barbuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000704"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004507 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004507">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000621"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004508 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004508">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Nagorno-Karabakh Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Nagorno-Karabakh Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000726"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004509 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004509">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Tokelau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Tokelau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001482"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004510 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004510">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Sierra Leone</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Sierra Leone</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000070"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004511 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004511">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Gabon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Gabon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000065"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004512 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004512">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Bangladesh</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Bangladesh</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000709"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004513 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004513">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Iceland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Iceland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000698"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004514 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004514">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000676"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004515 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004515">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in South Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of South Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000151"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004516 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004516">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000764"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004517 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004517">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cabo Verde</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cabo Verde</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000660"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004518 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004518">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Seychelles</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Seychelles</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000753"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004519 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004519">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Lesotho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Lesotho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000765"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004520 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004520">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Zimbabwe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Zimbabwe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000755"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004521 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004521">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Micronesia (Federated States of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Micronesia (Federated States of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000686"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004522 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004522">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint Lucia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint Lucia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000702"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004523 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004523">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Kazakhstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Kazakhstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000673"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004524 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004524">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Andorra</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Andorra</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000619"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004525 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004525">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Brunei Darussalam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Brunei Darussalam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000758"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004526 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004526">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Republic of South Ossetia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Republic of South Ossetia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000770"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004527 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004527">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Democratic People's Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Democratic People's Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000610"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004528 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004528">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Austria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Austria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000635"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004529 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004529">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000789"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004530 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004530">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Somaliland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Somaliland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000746"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004531 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004531">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Somalia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Somalia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000646"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004532 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004532">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Guyana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Guyana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000691"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004533 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004533">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000617"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004534 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004534">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000774"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004535 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004535">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Azerbaijan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Azerbaijan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000716"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004536 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004536">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Timor-Leste</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Timor-Leste</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000735"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004537 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004537">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Oman</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Oman</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000658"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004538 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004538">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Yemen</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Yemen</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000713"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004539 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004539">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Marshall Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Marshall Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000688"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004540 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004540">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Vanuatu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Vanuatu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000684"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004541 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004541">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Cayman Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Cayman Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001182"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004542 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004542">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000717"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004543 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004543">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Serbia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Serbia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000793"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004544 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004544">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Greece</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Greece</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000677"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004545 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004545">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000767"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004546 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004546">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000670"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004547 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004547">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Saint-Martin (French part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Saint-Martin (French part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001503"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004548 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004548">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Democratic Republic of Congo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Democratic Republic of Congo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000067"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004549 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004549">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Colombia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Colombia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000133"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004550 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004550">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000650"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004551 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004551">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Lao People's Democratic Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Lao People's Democratic Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000683"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004552 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004552">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000631"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004553 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004553">
+		<rdf:type rdf:resource="&obc;IDE_0000000173"/>
+		<rdfs:label xml:lang="en">Mycobacterium tuberculosis in Guinea-Bissau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Mycobacterium tuberculosis population in region of Guinea-Bissau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000644"/>
+	</owl:NamedIndividual>
+
+
+

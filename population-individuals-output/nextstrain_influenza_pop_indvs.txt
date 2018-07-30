@@ -1,0 +1,1515 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000001996 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001996">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Mauritius</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Mauritius</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000723"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001997 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001997">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Micronesia (Federated States of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Micronesia (Federated States of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000686"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001998 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001998">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Colombia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Colombia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000133"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001999 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001999">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Central African Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Central African Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000794"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002000 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002000">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Hungary</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Hungary</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000657"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002001 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002001">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Republic of Congo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Republic of Congo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000066"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002002 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002002">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Austria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Austria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000635"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002003 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002003">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Gambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Gambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000734"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002004 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002004">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Bahrain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Bahrain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000653"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002005 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002005">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Cook Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Cook Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001539"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002006 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002006">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Belarus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Belarus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000675"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002007 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002007">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Sweden</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Sweden</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000741"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002008 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002008">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Albania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Albania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000773"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002009 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002009">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Israel</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Israel</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000750"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002010 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002010">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000671"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002011 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002011">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Denmark</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Denmark</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000279"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002012 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002012">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Uruguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Uruguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000778"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002013 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002013">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Zambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Zambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000674"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002014 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002014">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000792"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002015 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002015">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000700"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002016 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002016">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Bulgaria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Bulgaria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000747"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002017 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002017">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002018 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002018">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in American Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of American Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001562"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002019 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002019">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000772"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002020 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002020">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Nepal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Nepal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000679"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002021 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002021">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000707"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002022 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002022">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000768"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002023 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002023">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000617"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002024 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002024">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Sri Lanka</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Sri Lanka</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000694"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002025 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002025">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000676"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002026 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002026">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000692"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002027 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002027">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000631"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002028 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002028">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in South Africa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of South Africa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000740"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002029 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002029">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000721"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002030 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002030">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Tajikistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Tajikistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000638"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002031 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002031">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002032 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002032">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000774"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002033 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002033">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Lao People's Democratic Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Lao People's Democratic Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000683"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002034 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002034">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Ghana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Ghana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000787"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002035 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002035">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Myanmar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Myanmar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000756"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002036 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002036">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Rwanda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Rwanda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000742"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002037 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002037">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Finland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Finland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000784"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002038 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002038">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Latvia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Latvia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000722"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002039 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002039">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000762"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002040 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002040">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000732"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002041 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002041">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Jordan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Jordan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000749"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002042 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002042">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Tuvalu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Tuvalu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000743"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002043 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002043">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Brazil</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Brazil</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000047"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002044 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002044">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Serbia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Serbia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000793"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002045 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002045">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Morocco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Morocco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000654"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002046 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002046">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000652"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002047 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002047">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Russian Federation</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Russian Federation</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000720"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002048 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002048">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Republic of Kosovo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Republic of Kosovo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000614"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002049 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002049">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Papua New Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Papua New Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000786"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002050 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002050">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Nigeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Nigeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000072"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002051 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002051">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Georgia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Georgia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000649"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002052 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002052">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000775"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002053 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002053">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Palau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Palau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000706"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002054 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002054">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Bangladesh</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Bangladesh</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000709"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002055 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002055">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000728"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002056 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002056">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002057 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002057">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Mali</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Mali</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000666"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002058 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002058">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000701"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002059 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002059">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Martinique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Martinique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001188"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002060 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002060">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Solomon Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Solomon Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000711"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002061 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002061">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Tunisia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Tunisia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000620"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002062 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002062">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Afghanistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Afghanistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000648"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002063 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002063">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Djibouti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Djibouti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000744"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002064 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002064">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Bosnia and Herzegovina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Bosnia and Herzegovina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000680"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002065 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002065">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Puerto Rico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Puerto Rico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000139"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002066 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002066">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Kuwait</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Kuwait</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000667"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002067 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002067">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Guadeloupe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Guadeloupe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001186"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002068 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002068">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000632"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002069 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002069">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000712"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002070 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002070">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Ukraine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Ukraine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000672"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002071 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002071">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in India</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of India</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000642"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002072 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002072">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Kyrgyzstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Kyrgyzstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000781"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002073 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002073">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Kazakhstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Kazakhstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000673"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002074 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002074">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000759"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002075 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002075">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Greece</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Greece</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000677"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002076 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002076">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Uganda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Uganda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000069"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002077 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002077">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Croatia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Croatia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000693"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002078 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002078">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Guinea-Bissau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Guinea-Bissau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000644"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002079 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002079">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Qatar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Qatar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000788"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002080 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002080">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Lithuania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Lithuania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000662"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002081 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002081">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000637"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002082 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002082">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Lebanon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Lebanon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000785"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002083 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002083">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Cayman Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Cayman Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001182"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002084 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002084">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in French Guiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of French Guiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001184"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002085 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002085">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000682"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002086 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002086">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Iceland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Iceland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000698"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002087 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002087">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Romania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Romania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000612"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002088 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002088">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000629"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002089 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002089">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Malaysia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Malaysia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000745"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002090 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002090">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Cameroon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Cameroon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000724"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002091 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002091">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000641"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002092 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002092">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Indonesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Indonesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000752"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002093 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002093">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Turkey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Turkey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000715"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002094 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002094">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Azerbaijan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Azerbaijan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000716"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002095 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002095">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Maldives</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Maldives</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000760"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002096 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002096">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Estonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Estonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000736"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002097 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002097">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000655"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002098 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002098">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Singapore</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Singapore</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000157"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002099 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002099">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Togo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Togo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000639"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002100 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002100">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000777"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002101 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002101">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Armenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Armenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000705"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002102 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002102">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Australia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Australia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000640"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002103 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002103">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Guam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Guam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001553"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002104 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002104">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Norway</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Norway</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000661"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002105 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002105">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000670"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002106 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002106">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000766"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002107 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002107">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Mongolia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Mongolia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000681"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002108 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002108">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Algeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Algeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000703"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002109 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002109">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000622"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002110 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002110">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000615"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002111 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002111">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000623"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002112 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002112">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000717"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002114 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002114">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000697"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002115 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002115">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Ethiopia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Ethiopia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000731"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002116 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002116">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Uzbekistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Uzbekistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000751"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002117 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002117">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000627"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002118 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002118">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Oman</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Oman</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000658"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002119 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002119">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in France</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of France</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000719"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002120 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002120">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000737"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002121 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002121">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000730"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002122 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002122">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Kenya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Kenya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000710"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002123 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002123">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000767"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002124 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002124">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Egypt</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Egypt</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000769"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002125 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002125">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000764"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002126 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002126">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000757"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002127 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002127">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000668"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002128 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002128">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Madagascar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Madagascar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000664"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002129 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002129">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002130 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002130">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Slovenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Slovenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000733"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002131 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002131">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Philippines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Philippines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000748"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002132 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002132">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000650"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002133 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002133">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in New Caledonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of New Caledonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001542"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000002134 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000002134">
+		<rdf:type rdf:resource="&obc;IDE_0000000026"/>
+		<rdfs:label xml:lang="en">Influenza virus in Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Influenza virus population in region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000621"/>
+	</owl:NamedIndividual>

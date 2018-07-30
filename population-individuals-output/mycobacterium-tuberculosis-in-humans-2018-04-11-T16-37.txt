@@ -1,0 +1,229 @@
+pathogen_iri	pathogen_label	host_iri	host_label
+http://www.pitt.edu/obc/IDE_0000004512	Mycobacterium tuberculosis in Bangladesh	http://www.pitt.edu/obc/IDE_0000000894	humans in Bangladesh
+http://www.pitt.edu/obc/IDE_0000004330	Mycobacterium tuberculosis in Lebanon	http://www.pitt.edu/obc/IDE_0000000970	humans in Lebanon
+http://www.pitt.edu/obc/IDE_0000004542	Mycobacterium tuberculosis in Ecuador	http://www.pitt.edu/obc/IDE_0000000902	humans in Ecuador
+http://www.pitt.edu/obc/IDE_0000004412	Mycobacterium tuberculosis in Bhutan	http://www.pitt.edu/obc/IDE_0000000870	humans in Bhutan
+http://www.pitt.edu/obc/IDE_0000004519	Mycobacterium tuberculosis in Lesotho	http://www.pitt.edu/obc/IDE_0000000950	humans in Lesotho
+http://www.pitt.edu/obc/IDE_0000004372	Mycobacterium tuberculosis in South Africa	http://www.pitt.edu/obc/IDE_0000000925	humans in South Africa
+http://www.pitt.edu/obc/IDE_0000004520	Mycobacterium tuberculosis in Zimbabwe	http://www.pitt.edu/obc/IDE_0000000940	humans in Zimbabwe
+http://www.pitt.edu/obc/IDE_0000004396	Mycobacterium tuberculosis in Chile	http://www.pitt.edu/obc/IDE_0000000872	humans in Chile
+http://www.pitt.edu/obc/IDE_0000004527	Mycobacterium tuberculosis in Democratic People's Republic of Korea	http://www.pitt.edu/obc/IDE_0000000795	humans in Democratic People's Republic of Korea
+http://www.pitt.edu/obc/IDE_0000004427	Mycobacterium tuberculosis in Estonia	http://www.pitt.edu/obc/IDE_0000000921	humans in Estonia
+http://www.pitt.edu/obc/IDE_0000004335	Mycobacterium tuberculosis in Bermuda	http://www.pitt.edu/obc/IDE_0000001442	humans in Bermuda
+http://www.pitt.edu/obc/IDE_0000004436	Mycobacterium tuberculosis in Namibia	http://www.pitt.edu/obc/IDE_0000000875	humans in Namibia
+http://www.pitt.edu/obc/IDE_0000004467	Mycobacterium tuberculosis in Turkey	http://www.pitt.edu/obc/IDE_0000000900	humans in Turkey
+http://www.pitt.edu/obc/IDE_0000004342	Mycobacterium tuberculosis in Turkmenistan	http://www.pitt.edu/obc/IDE_0000000914	humans in Turkmenistan
+http://www.pitt.edu/obc/IDE_0000004453	Mycobacterium tuberculosis in Monaco	http://www.pitt.edu/obc/IDE_0000000863	humans in Monaco
+http://www.pitt.edu/obc/IDE_0000004501	Mycobacterium tuberculosis in Mauritania	http://www.pitt.edu/obc/IDE_0000000912	humans in Mauritania
+http://www.pitt.edu/obc/IDE_0000004486	"Mycobacterium tuberculosis in China, Macao Special Administrative Region"	http://www.pitt.edu/obc/IDE_0000001462	"humans in China, Macao Special Administrative Region"
+http://www.pitt.edu/obc/IDE_0000004337	Mycobacterium tuberculosis in Grenada	http://www.pitt.edu/obc/IDE_0000000821	humans in Grenada
+http://www.pitt.edu/obc/IDE_0000004329	Mycobacterium tuberculosis in Myanmar	http://www.pitt.edu/obc/IDE_0000000941	humans in Myanmar
+http://www.pitt.edu/obc/IDE_0000004349	Mycobacterium tuberculosis in Bahamas	http://www.pitt.edu/obc/IDE_0000000968	humans in Bahamas
+http://www.pitt.edu/obc/IDE_0000004420	Mycobacterium tuberculosis in Afghanistan	http://www.pitt.edu/obc/IDE_0000000833	humans in Afghanistan
+http://www.pitt.edu/obc/IDE_0000004473	Mycobacterium tuberculosis in Uzbekistan	http://www.pitt.edu/obc/IDE_0000000936	humans in Uzbekistan
+http://www.pitt.edu/obc/IDE_0000004543	Mycobacterium tuberculosis in Serbia	http://www.pitt.edu/obc/IDE_0000000978	humans in Serbia
+http://www.pitt.edu/obc/IDE_0000004452	Mycobacterium tuberculosis in Panama	http://www.pitt.edu/obc/IDE_0000000840	humans in Panama
+http://www.pitt.edu/obc/IDE_0000000263	Mycobacterium tuberculosis in the United States	http://www.pitt.edu/obc/IDE_0000000021	humans in the United States
+http://www.pitt.edu/obc/IDE_0000004541	Mycobacterium tuberculosis in Cayman Islands	http://www.pitt.edu/obc/IDE_0000001449	humans in Cayman Islands
+http://www.pitt.edu/obc/IDE_0000004530	Mycobacterium tuberculosis in Somaliland	http://www.pitt.edu/obc/IDE_0000000931	humans in Somaliland
+http://www.pitt.edu/obc/IDE_0000004415	Mycobacterium tuberculosis in Benin	http://www.pitt.edu/obc/IDE_0000000809	humans in Benin
+http://www.pitt.edu/obc/IDE_0000004346	Mycobacterium tuberculosis in French Polynesia	http://www.pitt.edu/obc/IDE_0000001552	humans in French Polynesia
+http://www.pitt.edu/obc/IDE_0000004380	Mycobacterium tuberculosis in Bosnia and Herzegovina	http://www.pitt.edu/obc/IDE_0000000865	humans in Bosnia and Herzegovina
+http://www.pitt.edu/obc/IDE_0000004449	Mycobacterium tuberculosis in Liberia	http://www.pitt.edu/obc/IDE_0000000074	humans in Liberia
+http://www.pitt.edu/obc/IDE_0000004388	Mycobacterium tuberculosis in Luxembourg	http://www.pitt.edu/obc/IDE_0000000976	humans in Luxembourg
+http://www.pitt.edu/obc/IDE_0000004466	Mycobacterium tuberculosis in Togo	http://www.pitt.edu/obc/IDE_0000000824	humans in Togo
+http://www.pitt.edu/obc/IDE_0000004483	Mycobacterium tuberculosis in Iraq	http://www.pitt.edu/obc/IDE_0000000910	humans in Iraq
+http://www.pitt.edu/obc/IDE_0000004524	Mycobacterium tuberculosis in Andorra	http://www.pitt.edu/obc/IDE_0000000804	humans in Andorra
+http://www.pitt.edu/obc/IDE_0000004422	Mycobacterium tuberculosis in Albania	http://www.pitt.edu/obc/IDE_0000000958	humans in Albania
+http://www.pitt.edu/obc/IDE_0000004553	Mycobacterium tuberculosis in Guinea-Bissau	http://www.pitt.edu/obc/IDE_0000000829	humans in Guinea-Bissau
+http://www.pitt.edu/obc/IDE_0000004341	Mycobacterium tuberculosis in Libyan Arab Jamahiriya	http://www.pitt.edu/obc/IDE_0000000899	humans in Libyan Arab Jamahiriya
+http://www.pitt.edu/obc/IDE_0000004394	Mycobacterium tuberculosis in Bolivia (Plurinational State of)	http://www.pitt.edu/obc/IDE_0000000807	humans in Bolivia (Plurinational State of)
+http://www.pitt.edu/obc/IDE_0000004371	Mycobacterium tuberculosis in United Kingdom of Great Britain and Northern Ireland	http://www.pitt.edu/obc/IDE_0000000975	humans in United Kingdom of Great Britain and Northern Ireland
+http://www.pitt.edu/obc/IDE_0000004478	Mycobacterium tuberculosis in Kyrgyzstan	http://www.pitt.edu/obc/IDE_0000000966	humans in Kyrgyzstan
+http://www.pitt.edu/obc/IDE_0000004416	Mycobacterium tuberculosis in New Zealand	http://www.pitt.edu/obc/IDE_0000000947	humans in New Zealand
+http://www.pitt.edu/obc/IDE_0000004374	Mycobacterium tuberculosis in Republic of Moldova	http://www.pitt.edu/obc/IDE_0000000884	humans in Republic of Moldova
+http://www.pitt.edu/obc/IDE_0000004423	Mycobacterium tuberculosis in Sao Tome and Principe	http://www.pitt.edu/obc/IDE_0000000964	humans in Sao Tome and Principe
+http://www.pitt.edu/obc/IDE_0000004469	Mycobacterium tuberculosis in Romania	http://www.pitt.edu/obc/IDE_0000000797	humans in Romania
+http://www.pitt.edu/obc/IDE_0000004521	Mycobacterium tuberculosis in Micronesia (Federated States of)	http://www.pitt.edu/obc/IDE_0000000871	humans in Micronesia (Federated States of)
+http://www.pitt.edu/obc/IDE_0000004508	Mycobacterium tuberculosis in Nagorno-Karabakh Republic	http://www.pitt.edu/obc/IDE_0000000911	humans in Nagorno-Karabakh Republic
+http://www.pitt.edu/obc/IDE_0000004551	Mycobacterium tuberculosis in Lao People's Democratic Republic	http://www.pitt.edu/obc/IDE_0000000868	humans in Lao People's Democratic Republic
+http://www.pitt.edu/obc/IDE_0000004516	Mycobacterium tuberculosis in Belgium	http://www.pitt.edu/obc/IDE_0000000949	humans in Belgium
+http://www.pitt.edu/obc/IDE_0000004440	Mycobacterium tuberculosis in Jordan	http://www.pitt.edu/obc/IDE_0000000934	humans in Jordan
+http://www.pitt.edu/obc/IDE_0000004400	Mycobacterium tuberculosis in Tuvalu	http://www.pitt.edu/obc/IDE_0000000928	humans in Tuvalu
+http://www.pitt.edu/obc/IDE_0000004387	Mycobacterium tuberculosis in Cambodia	http://www.pitt.edu/obc/IDE_0000000922	humans in Cambodia
+http://www.pitt.edu/obc/IDE_0000004463	Mycobacterium tuberculosis in Mozambique	http://www.pitt.edu/obc/IDE_0000000962	humans in Mozambique
+http://www.pitt.edu/obc/IDE_0000004505	Mycobacterium tuberculosis in Poland	http://www.pitt.edu/obc/IDE_0000000815	humans in Poland
+http://www.pitt.edu/obc/IDE_0000004373	Mycobacterium tuberculosis in Viet Nam	http://www.pitt.edu/obc/IDE_0000000961	humans in Viet Nam
+http://www.pitt.edu/obc/IDE_0000004509	Mycobacterium tuberculosis in Tokelau	http://www.pitt.edu/obc/IDE_0000001483	humans in Tokelau
+http://www.pitt.edu/obc/IDE_0000004429	Mycobacterium tuberculosis in Liechtenstein	http://www.pitt.edu/obc/IDE_0000000803	humans in Liechtenstein
+http://www.pitt.edu/obc/IDE_0000004450	Mycobacterium tuberculosis in Malta	http://www.pitt.edu/obc/IDE_0000000856	humans in Malta
+http://www.pitt.edu/obc/IDE_0000004378	Mycobacterium tuberculosis in Bulgaria	http://www.pitt.edu/obc/IDE_0000000932	humans in Bulgaria
+http://www.pitt.edu/obc/IDE_0000004536	Mycobacterium tuberculosis in Timor-Leste	http://www.pitt.edu/obc/IDE_0000000920	humans in Timor-Leste
+http://www.pitt.edu/obc/IDE_0000004491	Mycobacterium tuberculosis in Burkina Faso	http://www.pitt.edu/obc/IDE_0000000953	humans in Burkina Faso
+http://www.pitt.edu/obc/IDE_0000004528	Mycobacterium tuberculosis in Austria	http://www.pitt.edu/obc/IDE_0000000820	humans in Austria
+http://www.pitt.edu/obc/IDE_0000004537	Mycobacterium tuberculosis in Oman	http://www.pitt.edu/obc/IDE_0000000843	humans in Oman
+http://www.pitt.edu/obc/IDE_0000004454	Mycobacterium tuberculosis in Slovakia	http://www.pitt.edu/obc/IDE_0000000897	humans in Slovakia
+http://www.pitt.edu/obc/IDE_0000004534	Mycobacterium tuberculosis in Costa Rica	http://www.pitt.edu/obc/IDE_0000000959	humans in Costa Rica
+http://www.pitt.edu/obc/IDE_0000004495	Mycobacterium tuberculosis in Mongolia	http://www.pitt.edu/obc/IDE_0000000866	humans in Mongolia
+http://www.pitt.edu/obc/IDE_0000004518	Mycobacterium tuberculosis in Seychelles	http://www.pitt.edu/obc/IDE_0000000938	humans in Seychelles
+http://www.pitt.edu/obc/IDE_0000004458	Mycobacterium tuberculosis in Belarus	http://www.pitt.edu/obc/IDE_0000000860	humans in Belarus
+http://www.pitt.edu/obc/IDE_0000004345	Mycobacterium tuberculosis in Norfolk Island	http://www.pitt.edu/obc/IDE_0000001489	humans in Norfolk Island
+http://www.pitt.edu/obc/IDE_0000004331	Mycobacterium tuberculosis in Sweden	http://www.pitt.edu/obc/IDE_0000000926	humans in Sweden
+http://www.pitt.edu/obc/IDE_0000004376	Mycobacterium tuberculosis in Spain	http://www.pitt.edu/obc/IDE_0000000882	humans in Spain
+http://www.pitt.edu/obc/IDE_0000004370	Mycobacterium tuberculosis in Ethiopia	http://www.pitt.edu/obc/IDE_0000000916	humans in Ethiopia
+http://www.pitt.edu/obc/IDE_0000004552	Mycobacterium tuberculosis in Taiwan	http://www.pitt.edu/obc/IDE_0000000816	humans in Taiwan
+http://www.pitt.edu/obc/IDE_0000004398	Mycobacterium tuberculosis in Central African Republic	http://www.pitt.edu/obc/IDE_0000000979	humans in Central African Republic
+http://www.pitt.edu/obc/IDE_0000004365	Mycobacterium tuberculosis in Tunisia	http://www.pitt.edu/obc/IDE_0000000805	humans in Tunisia
+http://www.pitt.edu/obc/IDE_0000004515	Mycobacterium tuberculosis in South Sudan	http://www.pitt.edu/obc/IDE_0000001212	humans in South Sudan
+http://www.pitt.edu/obc/IDE_0000004391	Mycobacterium tuberculosis in Switzerland	http://www.pitt.edu/obc/IDE_0000000808	humans in Switzerland
+http://www.pitt.edu/obc/IDE_0000004474	Mycobacterium tuberculosis in Saudi Arabia	http://www.pitt.edu/obc/IDE_0000000881	humans in Saudi Arabia
+http://www.pitt.edu/obc/IDE_0000004490	Mycobacterium tuberculosis in Denmark	http://www.pitt.edu/obc/IDE_0000001938	humans in Denmark
+http://www.pitt.edu/obc/IDE_0000004435	Mycobacterium tuberculosis in Sri Lanka	http://www.pitt.edu/obc/IDE_0000000879	humans in Sri Lanka
+http://www.pitt.edu/obc/IDE_0000004504	Mycobacterium tuberculosis in Thailand	http://www.pitt.edu/obc/IDE_0000000841	humans in Thailand
+http://www.pitt.edu/obc/IDE_0000004442	Mycobacterium tuberculosis in United Arab Emirates	http://www.pitt.edu/obc/IDE_0000000893	humans in United Arab Emirates
+http://www.pitt.edu/obc/IDE_0000004488	Mycobacterium tuberculosis in Mali	http://www.pitt.edu/obc/IDE_0000000851	humans in Mali
+http://www.pitt.edu/obc/IDE_0000004496	Mycobacterium tuberculosis in Bahrain	http://www.pitt.edu/obc/IDE_0000000838	humans in Bahrain
+http://www.pitt.edu/obc/IDE_0000004480	Mycobacterium tuberculosis in France	http://www.pitt.edu/obc/IDE_0000000904	humans in France
+http://www.pitt.edu/obc/IDE_0000004477	Mycobacterium tuberculosis in Uganda	http://www.pitt.edu/obc/IDE_0000000076	humans in Uganda
+http://www.pitt.edu/obc/IDE_0000004531	Mycobacterium tuberculosis in Somalia	http://www.pitt.edu/obc/IDE_0000000831	humans in Somalia
+http://www.pitt.edu/obc/IDE_0000004375	Mycobacterium tuberculosis in Republic of Congo	http://www.pitt.edu/obc/IDE_0000000079	humans in Republic of Congo
+http://www.pitt.edu/obc/IDE_0000004351	Mycobacterium tuberculosis in Malaysia	http://www.pitt.edu/obc/IDE_0000000930	humans in Malaysia
+http://www.pitt.edu/obc/IDE_0000004361	Mycobacterium tuberculosis in Philippines	http://www.pitt.edu/obc/IDE_0000000933	humans in Philippines
+http://www.pitt.edu/obc/IDE_0000004498	Mycobacterium tuberculosis in Croatia	http://www.pitt.edu/obc/IDE_0000000878	humans in Croatia
+http://www.pitt.edu/obc/IDE_0000004465	Mycobacterium tuberculosis in Sudan	http://www.pitt.edu/obc/IDE_0000000946	humans in Sudan
+http://www.pitt.edu/obc/IDE_0000004399	Mycobacterium tuberculosis in Indonesia	http://www.pitt.edu/obc/IDE_0000000937	humans in Indonesia
+http://www.pitt.edu/obc/IDE_0000004513	Mycobacterium tuberculosis in Iceland	http://www.pitt.edu/obc/IDE_0000000883	humans in Iceland
+http://www.pitt.edu/obc/IDE_0000004438	Mycobacterium tuberculosis in Djibouti	http://www.pitt.edu/obc/IDE_0000000929	humans in Djibouti
+http://www.pitt.edu/obc/IDE_0000004407	Mycobacterium tuberculosis in Nepal	http://www.pitt.edu/obc/IDE_0000000864	humans in Nepal
+http://www.pitt.edu/obc/IDE_0000004510	Mycobacterium tuberculosis in Sierra Leone	http://www.pitt.edu/obc/IDE_0000000075	humans in Sierra Leone
+http://www.pitt.edu/obc/IDE_0000004362	Mycobacterium tuberculosis in Saint Kitts and Nevis	http://www.pitt.edu/obc/IDE_0000000830	humans in Saint Kitts and Nevis
+http://www.pitt.edu/obc/IDE_0000004445	Mycobacterium tuberculosis in Germany	http://www.pitt.edu/obc/IDE_0000000877	humans in Germany
+http://www.pitt.edu/obc/IDE_0000004470	Mycobacterium tuberculosis in Madagascar	http://www.pitt.edu/obc/IDE_0000000849	humans in Madagascar
+http://www.pitt.edu/obc/IDE_0000004511	Mycobacterium tuberculosis in Gabon	http://www.pitt.edu/obc/IDE_0000000080	humans in Gabon
+http://www.pitt.edu/obc/IDE_0000004404	Mycobacterium tuberculosis in Gambia	http://www.pitt.edu/obc/IDE_0000000919	humans in Gambia
+http://www.pitt.edu/obc/IDE_0000004468	Mycobacterium tuberculosis in Swaziland	http://www.pitt.edu/obc/IDE_0000000967	humans in Swaziland
+http://www.pitt.edu/obc/IDE_0000004402	Mycobacterium tuberculosis in Guadeloupe	http://www.pitt.edu/obc/IDE_0000001444	humans in Guadeloupe
+http://www.pitt.edu/obc/IDE_0000004545	Mycobacterium tuberculosis in Barbados	http://www.pitt.edu/obc/IDE_0000000952	humans in Barbados
+http://www.pitt.edu/obc/IDE_0000004447	Mycobacterium tuberculosis in Finland	http://www.pitt.edu/obc/IDE_0000000969	humans in Finland
+http://www.pitt.edu/obc/IDE_0000004525	Mycobacterium tuberculosis in Brunei Darussalam	http://www.pitt.edu/obc/IDE_0000000943	humans in Brunei Darussalam
+http://www.pitt.edu/obc/IDE_0000004548	Mycobacterium tuberculosis in Democratic Republic of Congo	http://www.pitt.edu/obc/IDE_0000000078	humans in Democratic Republic of Congo
+http://www.pitt.edu/obc/IDE_0000004363	Mycobacterium tuberculosis in Turks and Caicos Islands	http://www.pitt.edu/obc/IDE_0000001446	humans in Turks and Caicos Islands
+http://www.pitt.edu/obc/IDE_0000004533	Mycobacterium tuberculosis in Argentina	http://www.pitt.edu/obc/IDE_0000000802	humans in Argentina
+http://www.pitt.edu/obc/IDE_0000004517	Mycobacterium tuberculosis in Cabo Verde	http://www.pitt.edu/obc/IDE_0000000845	humans in Cabo Verde
+http://www.pitt.edu/obc/IDE_0000004439	Mycobacterium tuberculosis in Tonga	http://www.pitt.edu/obc/IDE_0000000939	humans in Tonga
+http://www.pitt.edu/obc/IDE_0000004529	Mycobacterium tuberculosis in Cuba	http://www.pitt.edu/obc/IDE_0000000974	humans in Cuba
+http://www.pitt.edu/obc/IDE_0000004410	Mycobacterium tuberculosis in Lithuania	http://www.pitt.edu/obc/IDE_0000000847	humans in Lithuania
+http://www.pitt.edu/obc/IDE_0000004414	Mycobacterium tuberculosis in Ghana	http://www.pitt.edu/obc/IDE_0000000972	humans in Ghana
+http://www.pitt.edu/obc/IDE_0000004381	Mycobacterium tuberculosis in Suriname	http://www.pitt.edu/obc/IDE_0000000892	humans in Suriname
+http://www.pitt.edu/obc/IDE_0000004493	Mycobacterium tuberculosis in Sint Maarten	http://www.pitt.edu/obc/IDE_0000001439	humans in Sint Maarten
+http://www.pitt.edu/obc/IDE_0000004456	Mycobacterium tuberculosis in Ireland	http://www.pitt.edu/obc/IDE_0000000965	humans in Ireland
+http://www.pitt.edu/obc/IDE_0000004425	Mycobacterium tuberculosis in Cameroon	http://www.pitt.edu/obc/IDE_0000000909	humans in Cameroon
+http://www.pitt.edu/obc/IDE_0000004379	Mycobacterium tuberculosis in Pakistan	http://www.pitt.edu/obc/IDE_0000000812	humans in Pakistan
+http://www.pitt.edu/obc/IDE_0000004426	Mycobacterium tuberculosis in Tanzania	http://www.pitt.edu/obc/IDE_0000000396	humans in Tanzania
+http://www.pitt.edu/obc/IDE_0000004526	Mycobacterium tuberculosis in Republic of South Ossetia	http://www.pitt.edu/obc/IDE_0000000955	humans in Republic of South Ossetia
+http://www.pitt.edu/obc/IDE_0000004395	Mycobacterium tuberculosis in Kuwait	http://www.pitt.edu/obc/IDE_0000000852	humans in Kuwait
+http://www.pitt.edu/obc/IDE_0000004502	Mycobacterium tuberculosis in Algeria	http://www.pitt.edu/obc/IDE_0000000888	humans in Algeria
+http://www.pitt.edu/obc/IDE_0000004344	Mycobacterium tuberculosis in Dominican Republic	http://www.pitt.edu/obc/IDE_0000000886	humans in Dominican Republic
+http://www.pitt.edu/obc/IDE_0000004462	Mycobacterium tuberculosis in Maldives	http://www.pitt.edu/obc/IDE_0000000945	humans in Maldives
+http://www.pitt.edu/obc/IDE_0000004481	Mycobacterium tuberculosis in Ukraine	http://www.pitt.edu/obc/IDE_0000000857	humans in Ukraine
+http://www.pitt.edu/obc/IDE_0000004514	Mycobacterium tuberculosis in Trinidad and Tobago	http://www.pitt.edu/obc/IDE_0000000861	humans in Trinidad and Tobago
+http://www.pitt.edu/obc/IDE_0000004424	Mycobacterium tuberculosis in State of Palestine	http://www.pitt.edu/obc/IDE_0000000828	humans in State of Palestine
+http://www.pitt.edu/obc/IDE_0000004549	Mycobacterium tuberculosis in Colombia	http://www.pitt.edu/obc/IDE_0000000135	humans in Colombia
+http://www.pitt.edu/obc/IDE_0000004433	Mycobacterium tuberculosis in Mauritius	http://www.pitt.edu/obc/IDE_0000000908	humans in Mauritius
+http://www.pitt.edu/obc/IDE_0000004437	Mycobacterium tuberculosis in India	http://www.pitt.edu/obc/IDE_0000000827	humans in India
+http://www.pitt.edu/obc/IDE_0000004339	Mycobacterium tuberculosis in Czech Republic	http://www.pitt.edu/obc/IDE_0000000957	humans in Czech Republic
+http://www.pitt.edu/obc/IDE_0000004459	Mycobacterium tuberculosis in Montserrat	http://www.pitt.edu/obc/IDE_0000001448	humans in Montserrat
+http://www.pitt.edu/obc/IDE_0000004334	Mycobacterium tuberculosis in San Marino	http://www.pitt.edu/obc/IDE_0000000924	humans in San Marino
+http://www.pitt.edu/obc/IDE_0000004418	Mycobacterium tuberculosis in New Caledonia	http://www.pitt.edu/obc/IDE_0000001543	humans in New Caledonia
+http://www.pitt.edu/obc/IDE_0000004392	Mycobacterium tuberculosis in Haiti	http://www.pitt.edu/obc/IDE_0000000906	humans in Haiti
+http://www.pitt.edu/obc/IDE_0000004497	Mycobacterium tuberculosis in Transnistria	http://www.pitt.edu/obc/IDE_0000000811	humans in Transnistria
+http://www.pitt.edu/obc/IDE_0000004355	Mycobacterium tuberculosis in Fiji	http://www.pitt.edu/obc/IDE_0000000822	humans in Fiji
+http://www.pitt.edu/obc/IDE_0000004489	Mycobacterium tuberculosis in Mexico	http://www.pitt.edu/obc/IDE_0000000944	humans in Mexico
+http://www.pitt.edu/obc/IDE_0000004350	Mycobacterium tuberculosis in Anguilla	http://www.pitt.edu/obc/IDE_0000001447	humans in Anguilla
+http://www.pitt.edu/obc/IDE_0000004369	Mycobacterium tuberculosis in Republic of Kosovo	http://www.pitt.edu/obc/IDE_0000000799	humans in Republic of Kosovo
+http://www.pitt.edu/obc/IDE_0000004472	Mycobacterium tuberculosis in Canada	http://www.pitt.edu/obc/IDE_0000000356	humans in Canada
+http://www.pitt.edu/obc/IDE_0000004413	Mycobacterium tuberculosis in Singapore	http://www.pitt.edu/obc/IDE_0000000161	humans in Singapore
+http://www.pitt.edu/obc/IDE_0000004475	Mycobacterium tuberculosis in Latvia	http://www.pitt.edu/obc/IDE_0000000907	humans in Latvia
+http://www.pitt.edu/obc/IDE_0000004389	Mycobacterium tuberculosis in Australia	http://www.pitt.edu/obc/IDE_0000000825	humans in Australia
+http://www.pitt.edu/obc/IDE_0000004550	Mycobacterium tuberculosis in Côte d'Ivoire	http://www.pitt.edu/obc/IDE_0000000835	humans in Côte d'Ivoire
+http://www.pitt.edu/obc/IDE_0000004535	Mycobacterium tuberculosis in Azerbaijan	http://www.pitt.edu/obc/IDE_0000000901	humans in Azerbaijan
+http://www.pitt.edu/obc/IDE_0000004492	Mycobacterium tuberculosis in Réunion	http://www.pitt.edu/obc/IDE_0000001495	humans in Réunion
+http://www.pitt.edu/obc/IDE_0000004417	Mycobacterium tuberculosis in Papua New Guinea	http://www.pitt.edu/obc/IDE_0000000971	humans in Papua New Guinea
+http://www.pitt.edu/obc/IDE_0000004336	Mycobacterium tuberculosis in Venezuela	http://www.pitt.edu/obc/IDE_0000000149	humans in Venezuela
+http://www.pitt.edu/obc/IDE_0000004479	"Mycobacterium tuberculosis in China, Hong Kong Special Administrative Region"	http://www.pitt.edu/obc/IDE_0000001522	"humans in China, Hong Kong Special Administrative Region"
+http://www.pitt.edu/obc/IDE_0000004522	Mycobacterium tuberculosis in Saint Lucia	http://www.pitt.edu/obc/IDE_0000000887	humans in Saint Lucia
+http://www.pitt.edu/obc/IDE_0000004411	Mycobacterium tuberculosis in Burundi	http://www.pitt.edu/obc/IDE_0000000844	humans in Burundi
+http://www.pitt.edu/obc/IDE_0000004406	Mycobacterium tuberculosis in Aruba	http://www.pitt.edu/obc/IDE_0000001443	humans in Aruba
+http://www.pitt.edu/obc/IDE_0000004340	Mycobacterium tuberculosis in Comoros	http://www.pitt.edu/obc/IDE_0000000917	humans in Comoros
+http://www.pitt.edu/obc/IDE_0000004482	Mycobacterium tuberculosis in Eritrea	http://www.pitt.edu/obc/IDE_0000000813	humans in Eritrea
+http://www.pitt.edu/obc/IDE_0000004377	Mycobacterium tuberculosis in Cyprus	http://www.pitt.edu/obc/IDE_0000000903	humans in Cyprus
+http://www.pitt.edu/obc/IDE_0000004347	Mycobacterium tuberculosis in Saint-Barthélemy	http://www.pitt.edu/obc/IDE_0000001456	humans in Saint-Barthélemy
+http://www.pitt.edu/obc/IDE_0000004386	Mycobacterium tuberculosis in China	http://www.pitt.edu/obc/IDE_0000000915	humans in China
+http://www.pitt.edu/obc/IDE_0000004333	Mycobacterium tuberculosis in Guatemala	http://www.pitt.edu/obc/IDE_0000000942	humans in Guatemala
+http://www.pitt.edu/obc/IDE_0000004471	Mycobacterium tuberculosis in Israel	http://www.pitt.edu/obc/IDE_0000000935	humans in Israel
+http://www.pitt.edu/obc/IDE_0000004368	Mycobacterium tuberculosis in Mayotte	http://www.pitt.edu/obc/IDE_0000001480	humans in Mayotte
+http://www.pitt.edu/obc/IDE_0000004484	Mycobacterium tuberculosis in Iran (Islamic Republic of)	http://www.pitt.edu/obc/IDE_0000000810	humans in Iran (Islamic Republic of)
+http://www.pitt.edu/obc/IDE_0000004343	Mycobacterium tuberculosis in Japan	http://www.pitt.edu/obc/IDE_0000000913	humans in Japan
+http://www.pitt.edu/obc/IDE_0000004405	Mycobacterium tuberculosis in Cook Islands	http://www.pitt.edu/obc/IDE_0000001540	humans in Cook Islands
+http://www.pitt.edu/obc/IDE_0000004485	Mycobacterium tuberculosis in Equatorial Guinea	http://www.pitt.edu/obc/IDE_0000000874	humans in Equatorial Guinea
+http://www.pitt.edu/obc/IDE_0000004455	Mycobacterium tuberculosis in Tajikistan	http://www.pitt.edu/obc/IDE_0000000823	humans in Tajikistan
+http://www.pitt.edu/obc/IDE_0000004434	Mycobacterium tuberculosis in Guinea	http://www.pitt.edu/obc/IDE_0000000077	humans in Guinea
+http://www.pitt.edu/obc/IDE_0000004338	Mycobacterium tuberculosis in Jamaica	http://www.pitt.edu/obc/IDE_0000000951	humans in Jamaica
+http://www.pitt.edu/obc/IDE_0000004532	Mycobacterium tuberculosis in Guyana	http://www.pitt.edu/obc/IDE_0000000876	humans in Guyana
+http://www.pitt.edu/obc/IDE_0000004500	Mycobacterium tuberculosis in Qatar	http://www.pitt.edu/obc/IDE_0000000973	humans in Qatar
+http://www.pitt.edu/obc/IDE_0000004367	Mycobacterium tuberculosis in Pitcairn	http://www.pitt.edu/obc/IDE_0000001528	humans in Pitcairn
+http://www.pitt.edu/obc/IDE_0000004544	Mycobacterium tuberculosis in Greece	http://www.pitt.edu/obc/IDE_0000000862	humans in Greece
+http://www.pitt.edu/obc/IDE_0000004357	Mycobacterium tuberculosis in Senegal	http://www.pitt.edu/obc/IDE_0000000817	humans in Senegal
+http://www.pitt.edu/obc/IDE_0000004448	Mycobacterium tuberculosis in Kenya	http://www.pitt.edu/obc/IDE_0000000895	humans in Kenya
+http://www.pitt.edu/obc/IDE_0000004354	Mycobacterium tuberculosis in The former Yugoslav Republic of Macedonia	http://www.pitt.edu/obc/IDE_0000000798	humans in The former Yugoslav Republic of Macedonia
+http://www.pitt.edu/obc/IDE_0000004332	Mycobacterium tuberculosis in Curaçao	http://www.pitt.edu/obc/IDE_0000001513	humans in Curaçao
+http://www.pitt.edu/obc/IDE_0000004476	Mycobacterium tuberculosis in Saint Pierre and Miquelon	http://www.pitt.edu/obc/IDE_0000001468	humans in Saint Pierre and Miquelon
+http://www.pitt.edu/obc/IDE_0000004547	Mycobacterium tuberculosis in Saint-Martin (French part)	http://www.pitt.edu/obc/IDE_0000001808	humans in Saint-Martin (French part)
+http://www.pitt.edu/obc/IDE_0000004432	Mycobacterium tuberculosis in Portugal	http://www.pitt.edu/obc/IDE_0000000853	humans in Portugal
+http://www.pitt.edu/obc/IDE_0000004403	Mycobacterium tuberculosis in Syrian Arab Republic	http://www.pitt.edu/obc/IDE_0000000818	humans in Syrian Arab Republic
+http://www.pitt.edu/obc/IDE_0000004358	Mycobacterium tuberculosis in Nigeria	http://www.pitt.edu/obc/IDE_0000000073	humans in Nigeria
+http://www.pitt.edu/obc/IDE_0000004494	Mycobacterium tuberculosis in Zambia	http://www.pitt.edu/obc/IDE_0000000859	humans in Zambia
+http://www.pitt.edu/obc/IDE_0000004507	Mycobacterium tuberculosis in Nicaragua	http://www.pitt.edu/obc/IDE_0000000806	humans in Nicaragua
+http://www.pitt.edu/obc/IDE_0000004538	Mycobacterium tuberculosis in Yemen	http://www.pitt.edu/obc/IDE_0000000898	humans in Yemen
+http://www.pitt.edu/obc/IDE_0000004401	Mycobacterium tuberculosis in Chad	http://www.pitt.edu/obc/IDE_0000000819	humans in Chad
+http://www.pitt.edu/obc/IDE_0000004353	Mycobacterium tuberculosis in Greenland	http://www.pitt.edu/obc/IDE_0000001537	humans in Greenland
+http://www.pitt.edu/obc/IDE_0000004431	Mycobacterium tuberculosis in Netherlands	http://www.pitt.edu/obc/IDE_0000000850	humans in Netherlands
+http://www.pitt.edu/obc/IDE_0000004539	Mycobacterium tuberculosis in Marshall Islands	http://www.pitt.edu/obc/IDE_0000000873	humans in Marshall Islands
+http://www.pitt.edu/obc/IDE_0000004390	Mycobacterium tuberculosis in Solomon Islands	http://www.pitt.edu/obc/IDE_0000000896	humans in Solomon Islands
+http://www.pitt.edu/obc/IDE_0000004382	Mycobacterium tuberculosis in Kiribati	http://www.pitt.edu/obc/IDE_0000000956	humans in Kiribati
+http://www.pitt.edu/obc/IDE_0000004523	Mycobacterium tuberculosis in Kazakhstan	http://www.pitt.edu/obc/IDE_0000000858	humans in Kazakhstan
+http://www.pitt.edu/obc/IDE_0000004451	Mycobacterium tuberculosis in Dominica	http://www.pitt.edu/obc/IDE_0000000885	humans in Dominica
+http://www.pitt.edu/obc/IDE_0000004385	Mycobacterium tuberculosis in Niue	http://www.pitt.edu/obc/IDE_0000001486	humans in Niue
+http://www.pitt.edu/obc/IDE_0000004460	Mycobacterium tuberculosis in Peru	http://www.pitt.edu/obc/IDE_0000000854	humans in Peru
+http://www.pitt.edu/obc/IDE_0000004360	Mycobacterium tuberculosis in Norway	http://www.pitt.edu/obc/IDE_0000000846	humans in Norway
+http://www.pitt.edu/obc/IDE_0000004393	Mycobacterium tuberculosis in Hungary	http://www.pitt.edu/obc/IDE_0000000842	humans in Hungary
+http://www.pitt.edu/obc/IDE_0000004397	Mycobacterium tuberculosis in Nauru	http://www.pitt.edu/obc/IDE_0000000801	humans in Nauru
+http://www.pitt.edu/obc/IDE_0000004457	Mycobacterium tuberculosis in Republic of Korea	http://www.pitt.edu/obc/IDE_0000000977	humans in Republic of Korea
+http://www.pitt.edu/obc/IDE_0000004356	Mycobacterium tuberculosis in Martinique	http://www.pitt.edu/obc/IDE_0000001440	humans in Martinique
+http://www.pitt.edu/obc/IDE_0000004408	Mycobacterium tuberculosis in Botswana	http://www.pitt.edu/obc/IDE_0000000796	humans in Botswana
+http://www.pitt.edu/obc/IDE_0000004444	Mycobacterium tuberculosis in Samoa	http://www.pitt.edu/obc/IDE_0000000814	humans in Samoa
+http://www.pitt.edu/obc/IDE_0000004464	Mycobacterium tuberculosis in Slovenia	http://www.pitt.edu/obc/IDE_0000000918	humans in Slovenia
+http://www.pitt.edu/obc/IDE_0000004364	Mycobacterium tuberculosis in Saint Vincent and the Grenadines	http://www.pitt.edu/obc/IDE_0000000800	humans in Saint Vincent and the Grenadines
+http://www.pitt.edu/obc/IDE_0000004461	Mycobacterium tuberculosis in Honduras	http://www.pitt.edu/obc/IDE_0000000867	humans in Honduras
+http://www.pitt.edu/obc/IDE_0000004421	Mycobacterium tuberculosis in Saint Helena	http://www.pitt.edu/obc/IDE_0000001498	humans in Saint Helena
+http://www.pitt.edu/obc/IDE_0000004430	Mycobacterium tuberculosis in El Salvador	http://www.pitt.edu/obc/IDE_0000000837	humans in El Salvador
+http://www.pitt.edu/obc/IDE_0000004443	Mycobacterium tuberculosis in Italy	http://www.pitt.edu/obc/IDE_0000000826	humans in Italy
+http://www.pitt.edu/obc/IDE_0000004352	Mycobacterium tuberculosis in Palau	http://www.pitt.edu/obc/IDE_0000000891	humans in Palau
+http://www.pitt.edu/obc/IDE_0000004546	Mycobacterium tuberculosis in Belize	http://www.pitt.edu/obc/IDE_0000000855	humans in Belize
+http://www.pitt.edu/obc/IDE_0000004359	Mycobacterium tuberculosis in Russian Federation	http://www.pitt.edu/obc/IDE_0000000905	humans in Russian Federation
+http://www.pitt.edu/obc/IDE_0000004503	Mycobacterium tuberculosis in Armenia	http://www.pitt.edu/obc/IDE_0000000890	humans in Armenia
+http://www.pitt.edu/obc/IDE_0000004441	Mycobacterium tuberculosis in Niger	http://www.pitt.edu/obc/IDE_0000000880	humans in Niger
+http://www.pitt.edu/obc/IDE_0000004366	Mycobacterium tuberculosis in Morocco	http://www.pitt.edu/obc/IDE_0000000839	humans in Morocco
+http://www.pitt.edu/obc/IDE_0000004384	Mycobacterium tuberculosis in Uruguay	http://www.pitt.edu/obc/IDE_0000000963	humans in Uruguay
+http://www.pitt.edu/obc/IDE_0000004540	Mycobacterium tuberculosis in Vanuatu	http://www.pitt.edu/obc/IDE_0000000869	humans in Vanuatu
+http://www.pitt.edu/obc/IDE_0000004506	Mycobacterium tuberculosis in Antigua and Barbuda	http://www.pitt.edu/obc/IDE_0000000889	humans in Antigua and Barbuda
+http://www.pitt.edu/obc/IDE_0000004446	Mycobacterium tuberculosis in Republic of Abkhazia	http://www.pitt.edu/obc/IDE_0000000836	humans in Republic of Abkhazia
+http://www.pitt.edu/obc/IDE_0000004428	Mycobacterium tuberculosis in French Guiana	http://www.pitt.edu/obc/IDE_0000001445	humans in French Guiana
+http://www.pitt.edu/obc/IDE_0000004348	Mycobacterium tuberculosis in Angola	http://www.pitt.edu/obc/IDE_0000000848	humans in Angola
+http://www.pitt.edu/obc/IDE_0000004558	Mycobacterium tuberculosis in Montenegro	http://www.pitt.edu/obc/IDE_0000000948	humans in Montenegro
+http://www.pitt.edu/obc/IDE_0000004409	Mycobacterium tuberculosis in Brazil	http://www.pitt.edu/obc/IDE_0000000049	humans in Brazil
+http://www.pitt.edu/obc/IDE_0000004559	Mycobacterium tuberculosis in Georgia	http://www.pitt.edu/obc/IDE_0000000834	humans in Georgia
+http://www.pitt.edu/obc/IDE_0000004383	Mycobacterium tuberculosis in Paraguay	http://www.pitt.edu/obc/IDE_0000000960	humans in Paraguay
+http://www.pitt.edu/obc/IDE_0000004419	Mycobacterium tuberculosis in Rwanda	http://www.pitt.edu/obc/IDE_0000000927	humans in Rwanda
+http://www.pitt.edu/obc/IDE_0000004487	Mycobacterium tuberculosis in Egypt	http://www.pitt.edu/obc/IDE_0000000954	humans in Egypt
+http://www.pitt.edu/obc/IDE_0000004499	Mycobacterium tuberculosis in Malawi	http://www.pitt.edu/obc/IDE_0000000923	humans in Malawi

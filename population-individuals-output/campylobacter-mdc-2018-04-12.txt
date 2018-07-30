@@ -1,0 +1,66 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000004581 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004581">
+		<rdf:type rdf:resource="obc;IDE_0000001742"/>
+		<rdfs:label xml:lang="en">Campylobacter in Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Campylobacter population in region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000764"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004582 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004582">
+		<rdf:type rdf:resource="obc;IDE_0000001742"/>
+		<rdfs:label xml:lang="en">Campylobacter in Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Campylobacter population in region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000772"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004583 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004583">
+		<rdf:type rdf:resource="obc;IDE_0000001742"/>
+		<rdfs:label xml:lang="en">Campylobacter in Singapore</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Campylobacter population in region of Singapore</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000157"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004584 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004584">
+		<rdf:type rdf:resource="obc;IDE_0000001742"/>
+		<rdfs:label xml:lang="en">Campylobacter in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Campylobacter population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004585 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004585">
+		<rdf:type rdf:resource="obc;IDE_0000001742"/>
+		<rdfs:label xml:lang="en">Campylobacter in Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Campylobacter population in region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000671"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004586 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004586">
+		<rdf:type rdf:resource="obc;IDE_0000001742"/>
+		<rdfs:label xml:lang="en">Campylobacter in New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Campylobacter population in region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000762"/>
+	</owl:NamedIndividual>
+
+
+

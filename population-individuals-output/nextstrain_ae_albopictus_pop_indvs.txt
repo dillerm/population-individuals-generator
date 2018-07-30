@@ -1,0 +1,143 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000001968 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001968">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000697"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001969 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001969">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Angola</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Angola</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000663"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001970 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001970">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000632"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001971 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001971">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Hawaiʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Hawaiʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001058"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001972 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001972">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000650"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001973 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001973">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000768"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001974 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001974">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000668"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001975 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001975">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Seychelles</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Seychelles</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000753"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001976 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001976">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Eritrea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Eritrea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000628"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001977 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001977">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000692"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001978 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001978">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000732"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001979 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001979">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000627"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001980 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001980">
+		<rdf:type rdf:resource="&obc;IDE_0000001228"/>
+		<rdfs:label xml:lang="en">Aedes albopictus in Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Aedes albopictus population in region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000777"/>
+	</owl:NamedIndividual>
+
+
+

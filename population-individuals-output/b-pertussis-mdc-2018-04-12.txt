@@ -1,0 +1,66 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000004587 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004587">
+		<rdf:type rdf:resource="obc;IDE_0000000233"/>
+		<rdfs:label xml:lang="en">Bordetella pertussis in Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Bordetella pertussis population in region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000623"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004588 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004588">
+		<rdf:type rdf:resource="obc;IDE_0000000233"/>
+		<rdfs:label xml:lang="en">Bordetella pertussis in Saudi Arabia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Bordetella pertussis population in region of Saudi Arabia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000696"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004589 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004589">
+		<rdf:type rdf:resource="obc;IDE_0000000233"/>
+		<rdfs:label xml:lang="en">Bordetella pertussis in Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Bordetella pertussis population in region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000712"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004590 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004590">
+		<rdf:type rdf:resource="obc;IDE_0000000233"/>
+		<rdfs:label xml:lang="en">Bordetella pertussis in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Bordetella pertussis population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004591 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004591">
+		<rdf:type rdf:resource="obc;IDE_0000000233"/>
+		<rdfs:label xml:lang="en">Bordetella pertussis in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Bordetella pertussis population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004592 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004592">
+		<rdf:type rdf:resource="obc;IDE_0000000233"/>
+		<rdfs:label xml:lang="en">Bordetella pertussis in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Bordetella pertussis population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+

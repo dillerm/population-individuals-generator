@@ -1,0 +1,2519 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000004100 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004100">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Netherlands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Netherlands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000665"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004101 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004101">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Tunisia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Tunisia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000620"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004102 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004102">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Serbia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Serbia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000793"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004103 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004103">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Malaysia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Malaysia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000745"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004104 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004104">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Tokelau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Tokelau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001482"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004105 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004105">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in French Polynesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of French Polynesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001551"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004106 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004106">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Turks and Caicos Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Turks and Caicos Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001198"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004107 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004107">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Peru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Peru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000669"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004108 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004108">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Eritrea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Eritrea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000628"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004109 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004109">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Gibraltar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Gibraltar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001470"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004110 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004110">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000762"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004111 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004111">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Somaliland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Somaliland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000746"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004112 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004112">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Iran (Islamic Republic of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Iran (Islamic Republic of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000625"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004113 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004113">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Andorra</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Andorra</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000619"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004114 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004114">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Niger</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Niger</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000695"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004115 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004115">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in France</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of France</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000719"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004116 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004116">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Burundi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Burundi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000659"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004117 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004117">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000629"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004118 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004118">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Angola</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Angola</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000663"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004119 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004119">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Botswana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Botswana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000611"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004120 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004120">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in China, Macao Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of China, Macao Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001461"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004121 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004121">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000732"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004122 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004122">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000789"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004123 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004123">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in United Kingdom of Great Britain and Northern Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of United Kingdom of Great Britain and Northern Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000790"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004124 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004124">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000668"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004125 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004125">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Republic of South Ossetia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Republic of South Ossetia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000770"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004126 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004126">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Central African Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Central African Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000794"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004127 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004127">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Algeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Algeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000703"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004128 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004128">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000627"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004129 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004129">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Singapore</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Singapore</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000157"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004130 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004130">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000700"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004131 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004131">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Latvia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Latvia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000722"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004132 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004132">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Liechtenstein</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Liechtenstein</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000618"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004133 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004133">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bulgaria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bulgaria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000747"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004134 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004134">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Brazil</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Brazil</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000047"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004135 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004135">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000650"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004136 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004136">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000637"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004137 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004137">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000772"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004138 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004138">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Afghanistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Afghanistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000648"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004139 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004139">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint Pierre and Miquelon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint Pierre and Miquelon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001467"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004140 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004140">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000701"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004141 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004141">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Maldives</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Maldives</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000760"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004142 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004142">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Kazakhstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Kazakhstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000673"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004143 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004143">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Philippines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Philippines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000748"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004144 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004144">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint Kitts and Nevis</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint Kitts and Nevis</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000645"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004145 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004145">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000757"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004146 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004146">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Romania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Romania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000612"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004147 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004147">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bermuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bermuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001178"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004148 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004148">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saudi Arabia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saudi Arabia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000696"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004149 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004149">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Montserrat</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Montserrat</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001190"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004150 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004150">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000632"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004151 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004151">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Solomon Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Solomon Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000711"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004152 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004152">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Belarus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Belarus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000675"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004153 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004153">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Réunion</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Réunion</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001494"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004154 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004154">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Azerbaijan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Azerbaijan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000716"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004155 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004155">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000652"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004156 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004156">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Lao People's Democratic Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Lao People's Democratic Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000683"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004157 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004157">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bangladesh</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bangladesh</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000709"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004158 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004158">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Republic of Moldova</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Republic of Moldova</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000699"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004159 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004159">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Zambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Zambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000674"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004160 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004160">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Transnistria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Transnistria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000626"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004161 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004161">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Iceland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Iceland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000698"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004162 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004162">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Venezuela</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Venezuela</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000147"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004163 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004163">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in United Arab Emirates</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of United Arab Emirates</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000708"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004164 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004164">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Poland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Poland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000630"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004165 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004165">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in San Marino</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of San Marino</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000739"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004166 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004166">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Syrian Arab Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Syrian Arab Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000633"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004167 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004167">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Tonga</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Tonga</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000754"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004168 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004168">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in China, Hong Kong Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of China, Hong Kong Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001521"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004169 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004169">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Marshall Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Marshall Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000688"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004170 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004170">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000670"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004171 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004171">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Jordan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Jordan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000749"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004172 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004172">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cabo Verde</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cabo Verde</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000660"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004173 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004173">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000671"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004174 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004174">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Tuvalu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Tuvalu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000743"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004175 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004175">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Tanzania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Tanzania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000394"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004176 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004176">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000655"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004177 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004177">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004178 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004178">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000615"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004179 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004179">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Rwanda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Rwanda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000742"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004180 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004180">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000712"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004181 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004181">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Norway</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Norway</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000661"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004182 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004182">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000766"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004183 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004183">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004184 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004184">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mauritius</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mauritius</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000723"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004185 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004185">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bahamas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bahamas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000783"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004186 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004186">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Uganda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Uganda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000069"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004187 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004187">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Palau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Palau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000706"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004188 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004188">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Grenada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Grenada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000636"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004189 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004189">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in State of Palestine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of State of Palestine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000643"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004190 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004190">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Turkey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Turkey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000715"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004191 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004191">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Libyan Arab Jamahiriya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Libyan Arab Jamahiriya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000714"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004192 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004192">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Anguilla</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Anguilla</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001173"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004193 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004193">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000631"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004194 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004194">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Oman</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Oman</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000658"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004195 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004195">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Guinea-Bissau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Guinea-Bissau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000644"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004196 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004196">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in India</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of India</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000642"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004197 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004197">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Lebanon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Lebanon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000785"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004198 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004198">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Sao Tome and Principe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Sao Tome and Principe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000779"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004199 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004199">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Pitcairn</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Pitcairn</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001527"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004200 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004200">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000761"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004201 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004201">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Sint Maarten</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Sint Maarten</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001196"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004202 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004202">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in South Africa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of South Africa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000740"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004203 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004203">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cyprus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cyprus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000718"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004204 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004204">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Namibia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Namibia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000690"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004205 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004205">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cayman Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cayman Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001182"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004206 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004206">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Hungary</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Hungary</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000657"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004207 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004207">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in New Caledonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of New Caledonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001542"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004208 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004208">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000767"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004209 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004209">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Australia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Australia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000640"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004210 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004210">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Croatia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Croatia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000693"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004211 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004211">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Israel</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Israel</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000750"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004212 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004212">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mauritania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mauritania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000727"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004213 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004213">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000777"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004214 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004214">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Armenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Armenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000705"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004215 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004215">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Zimbabwe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Zimbabwe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000755"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004216 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004216">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Benin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Benin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000624"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004217 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004217">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000728"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004218 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004218">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Colombia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Colombia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000133"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004219 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004219">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Viet Nam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Viet Nam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000776"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004220 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004220">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Indonesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Indonesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000752"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004221 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004221">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Martinique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Martinique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001188"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004222 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004222">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Gambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Gambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000734"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004223 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004223">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Turkmenistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Turkmenistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000729"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004224 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004224">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Curaçao</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Curaçao</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001512"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004225 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004225">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Kiribati</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Kiribati</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000771"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004226 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004226">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000764"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004227 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004227">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Nagorno-Karabakh Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Nagorno-Karabakh Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000726"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004228 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004228">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Democratic People's Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Democratic People's Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000610"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004229 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004229">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000621"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004230 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004230">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Djibouti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Djibouti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000744"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004231 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004231">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000774"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004232 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004232">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Myanmar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Myanmar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000756"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004233 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004233">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Canada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Canada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000355"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004234 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004234">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000068"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004235 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004235">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Austria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Austria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000635"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004236 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004236">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000697"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004237 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004237">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bahrain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bahrain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000653"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004238 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004238">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint Lucia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint Lucia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000702"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004239 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004239">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000717"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004240 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004240">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint Helena</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint Helena</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001497"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004241 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004241">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Somalia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Somalia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000646"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004242 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004242">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Guernsey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Guernsey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001515"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004243 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004243">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bosnia and Herzegovina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bosnia and Herzegovina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000680"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004244 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004244">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Isle of Man</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Isle of Man</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001500"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004245 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004245">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Equatorial Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Equatorial Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000689"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004246 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004246">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Lesotho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Lesotho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000765"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004247 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004247">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Qatar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Qatar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000788"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004248 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004248">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Lithuania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Lithuania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000662"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004249 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004249">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000792"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004250 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004250">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Norfolk Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Norfolk Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001488"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004251 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004251">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000730"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004252 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004252">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Estonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Estonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000736"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004253 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004253">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000721"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004254 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004254">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Republic of Kosovo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Republic of Kosovo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000614"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004255 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004255">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000780"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004256 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004256">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000617"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004257 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004257">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Nauru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Nauru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000616"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004258 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004258">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000676"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004259 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004259">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000768"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004260 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004260">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Sri Lanka</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Sri Lanka</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000694"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004261 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004261">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Vanuatu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Vanuatu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000684"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004262 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004262">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Kenya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Kenya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000710"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004263 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004263">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004264 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004264">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cook Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cook Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001539"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004265 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004265">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Guadeloupe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Guadeloupe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001186"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004266 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004266">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Niue</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Niue</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001485"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004267 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004267">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Seychelles</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Seychelles</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000753"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004268 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004268">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004269 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004269">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Denmark</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Denmark</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000279"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004270 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004270">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Kuwait</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Kuwait</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000667"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004271 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004271">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Kyrgyzstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Kyrgyzstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000781"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004272 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004272">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Swaziland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Swaziland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000782"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004273 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004273">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Antigua and Barbuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Antigua and Barbuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000704"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004274 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004274">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Puerto Rico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Puerto Rico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000139"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004275 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004275">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Brunei Darussalam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Brunei Darussalam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000758"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004276 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004276">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in South Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of South Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000151"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004277 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004277">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Virgin Islands of the United States</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Virgin Islands of the United States</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001170"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004278 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004278">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Malawi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Malawi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000738"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004279 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004279">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000775"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004280 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004280">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000692"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004281 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004281">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000759"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004282 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004282">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Republic of Abkhazia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Republic of Abkhazia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000651"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004283 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004283">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000622"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004284 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004284">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in French Guiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of French Guiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001184"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004285 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004285">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Liberia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Liberia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000071"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004286 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004286">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mali</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mali</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000666"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004287 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004287">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Mongolia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Mongolia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000681"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004288 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004288">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000641"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004289 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004289">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Ukraine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Ukraine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000672"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004290 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004290">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Uzbekistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Uzbekistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000751"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004291 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004291">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Ethiopia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Ethiopia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000731"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004292 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004292">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Chad</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Chad</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000634"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004293 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004293">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000737"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004294 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004294">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Guyana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Guyana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000691"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004295 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004295">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in The former Yugoslav Republic of Macedonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of The former Yugoslav Republic of Macedonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000613"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004296 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004296">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Aruba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Aruba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001175"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004297 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004297">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Bhutan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Bhutan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000685"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004298 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004298">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Gabon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Gabon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000065"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004299 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004299">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Morocco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Morocco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000654"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004300 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004300">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Slovenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Slovenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000733"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004301 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004301">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Ghana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Ghana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000787"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004302 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004302">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Egypt</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Egypt</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000769"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004303 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004303">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Nigeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Nigeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000072"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004304 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004304">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Finland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Finland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000784"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004305 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004305">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Greenland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Greenland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001536"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004306 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004306">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000707"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004307 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004307">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Madagascar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Madagascar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000664"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004308 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004308">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Nepal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Nepal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000679"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004309 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004309">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Sweden</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Sweden</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000741"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004310 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004310">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in British Virgin Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of British Virgin Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001180"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004311 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004311">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000682"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004312 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004312">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Uruguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Uruguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000778"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004313 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004313">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Micronesia (Federated States of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Micronesia (Federated States of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000686"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004314 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004314">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Tajikistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Tajikistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000638"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004315 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004315">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Timor-Leste</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Timor-Leste</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000735"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004316 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004316">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Greece</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Greece</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000677"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004317 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004317">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Iraq</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Iraq</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000725"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004318 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004318">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Togo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Togo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000639"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004319 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004319">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Albania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Albania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000773"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004320 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004320">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004321 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004321">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Papua New Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Papua New Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000786"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004322 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004322">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Yemen</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Yemen</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000713"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004323 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004323">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Russian Federation</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Russian Federation</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000720"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004324 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004324">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000623"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004325 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004325">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Cameroon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Cameroon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000724"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004326 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004326">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Saint-Martin (French part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Saint-Martin (French part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001503"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004327 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004327">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Monaco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Monaco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000678"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004328 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004328">
+		<rdf:type rdf:resource="&obc;IDE_0000000229"/>
+		<rdfs:label xml:lang="en">HIV-1 in Sierra Leone</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">HIV-1 population in region of Sierra Leone</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000070"/>
+	</owl:NamedIndividual>
+
+
+

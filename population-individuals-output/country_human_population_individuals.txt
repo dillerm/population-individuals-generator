@@ -1,0 +1,2035 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000000795 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000795">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Democratic People's Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Democratic People's Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000610"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000796 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000796">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Botswana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Botswana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000611"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000797 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000797">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Romania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Romania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000612"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000798 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000798">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in The former Yugoslav Republic of Macedonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of The former Yugoslav Republic of Macedonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000613"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000799 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000799">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Republic of Kosovo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Republic of Kosovo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000614"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000800 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000800">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000615"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000801 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000801">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Nauru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Nauru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000616"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000802 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000802">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000617"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000803 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000803">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Liechtenstein</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Liechtenstein</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000618"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000804 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000804">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Andorra</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Andorra</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000619"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000805 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000805">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tunisia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tunisia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000620"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000806 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000806">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000621"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000807 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000807">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000622"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000808 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000808">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000623"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000809 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000809">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Benin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Benin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000624"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000810 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000810">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Iran (Islamic Republic of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Iran (Islamic Republic of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000625"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000811 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000811">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Transnistria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Transnistria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000626"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000812 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000812">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000627"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000813 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000813">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Eritrea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Eritrea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000628"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000814 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000814">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000629"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000815 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000815">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Poland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Poland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000630"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000816 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000816">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000631"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000817 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000817">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000632"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000818 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000818">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Syrian Arab Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Syrian Arab Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000633"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000819 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000819">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Chad</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Chad</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000634"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000820 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000820">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Austria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Austria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000635"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000821 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000821">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Grenada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Grenada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000636"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000822 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000822">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000637"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000823 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000823">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tajikistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tajikistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000638"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000824 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000824">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Togo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Togo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000639"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000825 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000825">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Australia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Australia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000640"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000826 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000826">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000641"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000827 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000827">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in India</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of India</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000642"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000828 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000828">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in State of Palestine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of State of Palestine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000643"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000829 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000829">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Guinea-Bissau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Guinea-Bissau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000644"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000830 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000830">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint Kitts and Nevis</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint Kitts and Nevis</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000645"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000831 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000831">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Somalia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Somalia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000646"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000832 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000832">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Holy See</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Holy See</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000647"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000833 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000833">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Afghanistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Afghanistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000648"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000834 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000834">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Georgia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Georgia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000649"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000835 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000835">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000650"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000836 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000836">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Republic of Abkhazia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Republic of Abkhazia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000651"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000837 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000837">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000652"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000838 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000838">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bahrain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bahrain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000653"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000839 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000839">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Morocco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Morocco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000654"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000840 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000840">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000655"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000841 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000841">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000842 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000842">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Hungary</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Hungary</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000657"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000843 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000843">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Oman</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Oman</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000658"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000844 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000844">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Burundi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Burundi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000659"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000845 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000845">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Cabo Verde</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Cabo Verde</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000660"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000846 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000846">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Norway</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Norway</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000661"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000847 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000847">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Lithuania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Lithuania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000662"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000848 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000848">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Angola</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Angola</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000663"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000849 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000849">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Madagascar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Madagascar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000664"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000850 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000850">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Netherlands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Netherlands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000665"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000851 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000851">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mali</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mali</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000666"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000852 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000852">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kuwait</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kuwait</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000667"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000853 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000853">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000668"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000854 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000854">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Peru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Peru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000669"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000855 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000855">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000670"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000856 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000856">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000671"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000857 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000857">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ukraine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ukraine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000672"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000858 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000858">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kazakhstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kazakhstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000673"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000859 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000859">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Zambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Zambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000674"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000860 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000860">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Belarus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Belarus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000675"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000861 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000861">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000676"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000862 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000862">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Greece</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Greece</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000677"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000863 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000863">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Monaco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Monaco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000678"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000864 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000864">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Nepal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Nepal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000679"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000865 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000865">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bosnia and Herzegovina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bosnia and Herzegovina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000680"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000866 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000866">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mongolia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mongolia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000681"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000867 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000867">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000682"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000868 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000868">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Lao People's Democratic Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Lao People's Democratic Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000683"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000869 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000869">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Vanuatu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Vanuatu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000684"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000870 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000870">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bhutan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bhutan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000685"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000871 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000871">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Micronesia (Federated States of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Micronesia (Federated States of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000686"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000872 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000872">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000873 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000873">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Marshall Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Marshall Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000688"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000874 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000874">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Equatorial Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Equatorial Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000689"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000875 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000875">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Namibia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Namibia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000690"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000876 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000876">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Guyana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Guyana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000691"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000877 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000877">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000692"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000878 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000878">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Croatia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Croatia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000693"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000879 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000879">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Sri Lanka</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Sri Lanka</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000694"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000880 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000880">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Niger</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Niger</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000695"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000881 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000881">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saudi Arabia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saudi Arabia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000696"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000882 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000882">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000697"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000883 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000883">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Iceland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Iceland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000698"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000884 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000884">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Republic of Moldova</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Republic of Moldova</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000699"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000885 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000885">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000700"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000886 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000886">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000701"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000887 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000887">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint Lucia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint Lucia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000702"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000888 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000888">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Algeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Algeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000703"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000889 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000889">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Antigua and Barbuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Antigua and Barbuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000704"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000890 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000890">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Armenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Armenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000705"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000891 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000891">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Palau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Palau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000706"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000892 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000892">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000707"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000893 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000893">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in United Arab Emirates</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of United Arab Emirates</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000708"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000894 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000894">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bangladesh</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bangladesh</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000709"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000895 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000895">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kenya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kenya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000710"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000896 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000896">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Solomon Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Solomon Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000711"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000897 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000897">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000712"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000898 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000898">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Yemen</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Yemen</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000713"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000899 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000899">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Libyan Arab Jamahiriya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Libyan Arab Jamahiriya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000714"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000900 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000900">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Turkey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Turkey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000715"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000901 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000901">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Azerbaijan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Azerbaijan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000716"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000902 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000902">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000717"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000903 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000903">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Cyprus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Cyprus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000718"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000904 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000904">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in France</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of France</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000719"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000905 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000905">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Russian Federation</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Russian Federation</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000720"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000906 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000906">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000721"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000907 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000907">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Latvia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Latvia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000722"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000908 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000908">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mauritius</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mauritius</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000723"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000909 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000909">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Cameroon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Cameroon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000724"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000910 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000910">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Iraq</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Iraq</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000725"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000911 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000911">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Nagorno-Karabakh Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Nagorno-Karabakh Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000726"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000912 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000912">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mauritania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mauritania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000727"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000913 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000913">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000728"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000914 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000914">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Turkmenistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Turkmenistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000729"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000915 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000915">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000730"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000916 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000916">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ethiopia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ethiopia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000731"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000917 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000917">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000732"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000918 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000918">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Slovenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Slovenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000733"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000919 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000919">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Gambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Gambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000734"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000920 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000920">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Timor-Leste</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Timor-Leste</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000735"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000921 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000921">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Estonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Estonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000736"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000922 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000922">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000737"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000923 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000923">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Malawi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Malawi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000738"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000924 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000924">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in San Marino</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of San Marino</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000739"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000925 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000925">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in South Africa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of South Africa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000740"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000926 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000926">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Sweden</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Sweden</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000741"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000927 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000927">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Rwanda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Rwanda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000742"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000928 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000928">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tuvalu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tuvalu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000743"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000929 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000929">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Djibouti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Djibouti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000744"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000930 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000930">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Malaysia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Malaysia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000745"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000931 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000931">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Somaliland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Somaliland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000746"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000932 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000932">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bulgaria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bulgaria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000747"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000933 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000933">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Philippines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Philippines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000748"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000934 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000934">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Jordan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Jordan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000749"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000935 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000935">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Israel</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Israel</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000750"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000936 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000936">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Uzbekistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Uzbekistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000751"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000937 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000937">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Indonesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Indonesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000752"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000938 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000938">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Seychelles</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Seychelles</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000753"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000939 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000939">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tonga</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tonga</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000754"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000940 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000940">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Zimbabwe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Zimbabwe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000755"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000941 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000941">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Myanmar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Myanmar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000756"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000942 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000942">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000757"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000943 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000943">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Brunei Darussalam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Brunei Darussalam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000758"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000944 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000944">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000759"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000945 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000945">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Maldives</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Maldives</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000760"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000946 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000946">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000761"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000947 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000947">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000762"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000948 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000948">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Montenegro </rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Montenegro </obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000763"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000949 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000949">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000764"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000950 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000950">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Lesotho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Lesotho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000765"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000951 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000951">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000766"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000952 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000952">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000767"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000953 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000953">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000768"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000954 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000954">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Egypt</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Egypt</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000769"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000955 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000955">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Republic of South Ossetia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Republic of South Ossetia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000770"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000956 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000956">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kiribati</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kiribati</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000771"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000957 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000957">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000772"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000958 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000958">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Albania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Albania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000773"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000959 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000959">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000774"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000960 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000960">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000775"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000961 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000961">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Viet Nam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Viet Nam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000776"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000962 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000962">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000777"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000963 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000963">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Uruguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Uruguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000778"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000964 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000964">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Sao Tome and Principe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Sao Tome and Principe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000779"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000965 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000965">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000780"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000966 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000966">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kyrgyzstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kyrgyzstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000781"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000967 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000967">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Swaziland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Swaziland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000782"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000968 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000968">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Bahamas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Bahamas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000783"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000969 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000969">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Finland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Finland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000784"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000970 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000970">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Lebanon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Lebanon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000785"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000971 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000971">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Papua New Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Papua New Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000786"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000972 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000972">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ghana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ghana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000787"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000973 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000973">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Qatar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Qatar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000788"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000974 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000974">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000789"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000975 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000975">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in United Kingdom of Great Britain and Northern Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of United Kingdom of Great Britain and Northern Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000790"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000976 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000976">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000977 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000977">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000792"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000978 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000978">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Serbia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Serbia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000793"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000979 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000979">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Central African Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Central African Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000794"/>
+	</owl:NamedIndividual>
+
+
+

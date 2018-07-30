@@ -1,0 +1,2453 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000004629 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004629">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000655"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004630 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004630">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Nagorno-Karabakh Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Nagorno-Karabakh Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000726"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004631 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004631">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Kuwait</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Kuwait</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000667"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004632 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004632">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000617"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004633 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004633">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Zimbabwe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Zimbabwe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000755"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004634 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004634">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Oman</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Oman</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000658"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004635 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004635">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000697"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004636 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004636">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in France</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of France</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000719"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004637 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004637">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000615"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004638 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004638">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in New Caledonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of New Caledonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001542"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004639 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004639">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Montserrat</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Montserrat</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001190"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004640 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004640">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000656"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004641 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004641">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000623"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004642 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004642">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bahamas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bahamas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000783"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004643 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004643">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Estonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Estonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000736"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004644 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004644">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bangladesh</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bangladesh</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000709"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004645 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004645">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in French Polynesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of French Polynesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001551"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004646 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004646">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Hungary</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Hungary</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000657"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004647 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004647">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Tokelau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Tokelau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001482"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004648 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004648">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Martinique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Martinique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001188"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004649 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004649">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Solomon Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Solomon Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000711"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004650 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004650">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000792"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004651 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004651">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Namibia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Namibia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000690"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004652 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004652">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Sao Tome and Principe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Sao Tome and Principe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000779"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004653 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004653">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Maldives</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Maldives</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000760"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004654 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004654">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000668"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004655 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004655">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000775"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004656 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004656">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Gabon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Gabon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000065"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004657 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004657">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Kenya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Kenya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000710"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004658 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004658">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Lebanon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Lebanon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000785"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004659 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004659">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Guadeloupe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Guadeloupe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001186"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004660 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004660">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Central African Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Central African Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000794"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004661 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004661">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in China, Hong Kong Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of China, Hong Kong Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001521"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004662 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004662">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000670"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004663 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004663">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004664 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004664">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Azerbaijan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Azerbaijan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000716"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004665 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004665">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Slovenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Slovenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000733"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004666 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004666">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in United Kingdom of Great Britain and Northern Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of United Kingdom of Great Britain and Northern Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000790"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004667 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004667">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000622"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004668 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004668">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Philippines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Philippines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000748"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004669 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004669">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Montenegro</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Montenegro</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000763"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004670 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004670">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Papua New Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Papua New Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000786"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004671 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004671">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in United Arab Emirates</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of United Arab Emirates</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000708"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004672 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004672">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000701"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004673 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004673">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Syrian Arab Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Syrian Arab Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000633"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004674 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004674">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Romania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Romania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000612"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004675 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004675">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Netherlands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Netherlands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000665"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004676 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004676">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Uganda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Uganda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000069"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004677 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004677">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Grenada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Grenada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000636"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004678 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004678">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in The former Yugoslav Republic of Macedonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of The former Yugoslav Republic of Macedonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000613"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004679 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004679">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in South Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of South Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000151"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004680 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004680">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Vanuatu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Vanuatu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000684"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004681 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004681">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Malaysia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Malaysia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000745"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004682 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004682">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Republic of Congo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Republic of Congo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000066"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004683 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004683">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Norfolk Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Norfolk Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001488"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004684 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004684">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in San Marino</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of San Marino</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000739"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004685 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004685">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bosnia and Herzegovina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bosnia and Herzegovina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000680"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004686 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004686">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Democratic People's Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Democratic People's Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000610"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004687 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004687">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Sierra Leone</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Sierra Leone</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000070"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004688 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004688">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000068"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004689 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004689">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000650"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004690 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004690">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Iran (Islamic Republic of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Iran (Islamic Republic of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000625"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004691 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004691">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Jordan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Jordan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000749"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004692 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004692">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Ukraine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Ukraine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000672"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004693 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004693">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mali</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mali</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000666"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004694 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004694">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000780"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004695 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004695">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Finland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Finland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000784"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004696 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004696">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000707"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004697 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004697">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Curaçao</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Curaçao</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001512"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004698 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004698">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000712"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004699 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004699">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000676"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004700 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004700">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Republic of Abkhazia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Republic of Abkhazia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000651"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004701 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004701">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000732"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004702 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004702">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000757"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004703 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004703">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Turkmenistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Turkmenistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000729"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004704 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004704">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000717"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004705 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004705">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Viet Nam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Viet Nam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000776"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004706 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004706">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bulgaria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bulgaria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000747"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004707 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004707">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Sint Maarten</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Sint Maarten</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001196"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004708 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004708">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000721"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004709 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004709">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Croatia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Croatia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000693"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004710 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004710">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Liberia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Liberia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000071"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004711 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004711">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Togo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Togo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000639"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004712 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004712">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000627"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004713 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004713">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Aruba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Aruba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001175"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004714 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004714">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cook Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cook Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001539"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004715 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004715">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Afghanistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Afghanistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000648"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004716 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004716">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004717 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004717">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Greenland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Greenland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001536"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004718 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004718">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Nigeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Nigeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000072"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004719 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004719">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Egypt</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Egypt</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000769"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004720 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004720">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Libyan Arab Jamahiriya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Libyan Arab Jamahiriya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000714"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004721 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004721">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Singapore</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Singapore</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000157"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004722 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004722">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Kyrgyzstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Kyrgyzstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000781"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004723 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004723">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Morocco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Morocco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000654"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004724 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004724">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Marshall Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Marshall Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000688"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004725 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004725">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000774"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004726 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004726">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Liechtenstein</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Liechtenstein</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000618"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004727 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004727">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Malawi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Malawi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000738"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004728 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004728">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mauritania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mauritania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000727"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004729 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004729">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Réunion</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Réunion</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001494"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004730 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004730">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Nauru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Nauru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000616"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004731 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004731">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Armenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Armenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000705"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004732 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004732">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000641"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004733 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004733">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint Helena</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint Helena</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001497"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004734 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004734">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cabo Verde</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cabo Verde</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000660"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004735 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004735">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000637"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004736 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004736">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Burundi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Burundi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000659"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004737 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004737">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Ghana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Ghana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000787"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004738 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004738">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000762"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004739 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004739">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in State of Palestine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of State of Palestine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000643"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004740 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004740">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Madagascar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Madagascar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000664"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004741 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004741">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Ethiopia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Ethiopia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000731"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004742 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004742">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Tunisia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Tunisia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000620"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004743 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004743">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Republic of South Ossetia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Republic of South Ossetia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000770"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004744 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004744">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Democratic Republic of Congo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Democratic Republic of Congo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000067"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004745 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004745">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bermuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bermuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001178"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004746 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004746">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000652"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004747 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004747">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Myanmar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Myanmar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000756"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004748 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004748">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000764"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004749 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004749">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000767"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004750 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004750">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000730"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004751 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004751">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Austria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Austria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000635"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004752 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004752">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Brunei Darussalam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Brunei Darussalam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000758"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004753 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004753">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Yemen</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Yemen</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000713"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004754 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004754">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Benin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Benin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000624"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004755 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004755">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in French Guiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of French Guiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001184"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004756 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004756">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Belarus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Belarus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000675"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004757 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004757">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Eritrea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Eritrea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000628"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004758 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004758">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Zambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Zambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000674"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004759 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004759">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Djibouti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Djibouti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000744"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004760 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004760">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Tuvalu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Tuvalu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000743"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004761 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004761">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Peru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Peru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000669"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004762 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004762">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Antigua and Barbuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Antigua and Barbuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000704"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004763 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004763">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bhutan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bhutan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000685"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004764 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004764">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Anguilla</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Anguilla</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001173"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004765 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004765">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Kiribati</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Kiribati</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000771"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004766 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004766">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000761"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004767 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004767">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint-Martin (French part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint-Martin (French part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001503"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004768 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004768">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Somaliland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Somaliland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000746"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004769 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004769">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint Pierre and Miquelon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint Pierre and Miquelon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001467"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004770 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004770">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Guyana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Guyana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000691"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004771 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004771">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Australia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Australia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000640"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004772 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004772">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Chad</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Chad</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000634"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004773 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004773">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Lesotho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Lesotho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000765"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004774 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004774">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Venezuela</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Venezuela</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000147"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004775 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004775">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Indonesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Indonesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000752"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004776 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004776">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cayman Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cayman Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001182"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004777 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004777">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000728"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004778 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004778">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mauritius</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mauritius</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000723"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004779 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004779">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Latvia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Latvia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000722"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004780 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004780">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Brazil</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Brazil</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000047"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004781 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004781">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Palau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Palau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000706"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004782 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004782">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Equatorial Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Equatorial Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000689"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004783 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004783">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Niger</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Niger</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000695"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004784 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004784">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000682"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004785 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004785">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Qatar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Qatar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000788"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004786 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004786">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Angola</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Angola</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000663"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004787 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004787">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Bahrain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Bahrain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000653"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004788 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004788">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Nepal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Nepal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000679"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004789 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004789">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Sri Lanka</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Sri Lanka</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000694"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004790 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004790">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Tajikistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Tajikistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000638"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004791 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004791">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint Kitts and Nevis</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint Kitts and Nevis</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000645"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004792 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004792">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000631"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004793 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004793">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Lao People's Democratic Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Lao People's Democratic Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000683"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004794 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004794">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000671"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004795 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004795">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Sweden</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Sweden</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000741"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004796 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004796">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Timor-Leste</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Timor-Leste</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000735"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004797 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004797">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000768"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004798 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004798">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Swaziland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Swaziland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000782"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004799 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004799">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cameroon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cameroon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000724"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004800 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004800">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in India</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of India</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000642"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004801 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004801">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Algeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Algeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000703"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004802 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004802">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Albania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Albania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000773"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004803 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004803">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000791"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004804 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004804">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Uzbekistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Uzbekistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000751"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004805 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004805">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Transnistria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Transnistria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000626"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004806 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004806">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000700"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004807 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004807">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Iraq</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Iraq</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000725"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004808 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004808">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Tonga</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Tonga</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000754"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004809 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004809">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000737"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004810 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004810">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000789"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004811 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004811">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Denmark</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Denmark</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000279"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004812 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004812">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Cyprus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Cyprus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000718"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004813 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004813">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Colombia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Colombia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000133"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004814 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004814">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in China, Macao Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of China, Macao Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001461"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004815 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004815">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Serbia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Serbia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000793"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004816 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004816">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000692"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004817 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004817">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Republic of Moldova</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Republic of Moldova</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000699"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004818 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004818">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Gambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Gambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000734"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004819 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004819">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Micronesia (Federated States of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Micronesia (Federated States of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000686"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004820 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004820">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000621"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004821 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004821">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saint Lucia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saint Lucia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000702"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004822 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004822">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004823 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004823">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Turks and Caicos Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Turks and Caicos Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001198"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004824 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004824">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Rwanda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Rwanda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000742"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004825 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004825">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000766"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004826 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004826">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000629"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004827 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004827">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Russian Federation</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Russian Federation</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000720"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004828 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004828">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Guinea-Bissau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Guinea-Bissau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000644"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004829 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004829">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Republic of Kosovo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Republic of Kosovo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000614"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004830 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004830">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in South Africa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of South Africa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000740"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004831 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004831">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000772"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004832 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004832">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Canada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Canada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000355"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004833 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004833">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Lithuania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Lithuania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000662"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004834 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004834">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Somalia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Somalia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000646"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004835 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004835">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Israel</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Israel</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000750"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004836 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004836">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Kazakhstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Kazakhstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000673"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004837 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004837">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Niue</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Niue</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001485"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004838 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004838">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Seychelles</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Seychelles</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000753"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004839 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004839">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Norway</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Norway</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000661"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004840 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004840">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Monaco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Monaco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000678"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004841 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004841">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Tanzania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Tanzania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000394"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004842 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004842">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Uruguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Uruguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000778"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004843 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004843">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mongolia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mongolia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000681"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004844 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004844">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000777"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004845 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004845">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Turkey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Turkey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000715"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004846 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004846">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Saudi Arabia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Saudi Arabia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000696"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004847 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004847">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Botswana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Botswana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000611"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004848 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004848">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000759"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004849 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004849">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000632"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004850 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004850">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Poland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Poland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000630"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000004851 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000004851">
+		<rdf:type rdf:resource="&obc;IDE_0000000232"/>
+		<rdfs:label xml:lang="en">Hepatitis A virus in Iceland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Hepatitis A virus population in region of Iceland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000698"/>
+	</owl:NamedIndividual>
+
+
+

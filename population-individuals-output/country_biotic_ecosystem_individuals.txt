@@ -1,0 +1,2035 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000000610 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000610">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Democratic People's Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Democratic People's Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000425"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000611 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000611">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Botswana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Botswana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000426"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000612 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000612">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Romania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Romania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000427"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000613 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000613">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of The former Yugoslav Republic of Macedonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of The former Yugoslav Republic of Macedonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000428"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000614 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000614">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Republic of Kosovo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Republic of Kosovo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000429"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000615 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000615">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000430"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000616 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000616">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Nauru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Nauru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000431"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000617 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000617">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000432"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000618 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000618">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Liechtenstein</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Liechtenstein</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000433"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000619 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000619">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Andorra</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Andorra</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000434"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000620 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000620">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tunisia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tunisia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000435"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000621 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000621">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000436"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000622 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000622">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000437"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000623 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000623">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Switzerland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Switzerland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000438"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000624 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000624">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Benin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Benin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000439"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000625 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000625">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Iran (Islamic Republic of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Iran (Islamic Republic of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000440"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000626 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000626">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Transnistria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Transnistria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000441"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000627 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000627">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Pakistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Pakistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000442"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000628 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000628">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Eritrea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Eritrea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000443"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000629 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000629">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Samoa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Samoa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000444"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000630 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000630">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Poland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Poland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000445"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000631 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000631">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Taiwan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Taiwan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000446"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000632 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000632">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Senegal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Senegal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000447"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000633 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000633">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Syrian Arab Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Syrian Arab Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000448"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000634 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000634">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Chad</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Chad</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000449"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000635 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000635">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Austria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Austria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000450"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000636 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000636">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Grenada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Grenada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000451"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000637 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000637">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Fiji</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Fiji</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000452"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000638 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000638">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tajikistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tajikistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000453"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000639 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000639">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Togo</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Togo</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000454"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000640 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000640">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Australia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Australia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000641 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000641">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000456"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000642 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000642">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of India</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of India</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000457"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000643 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000643">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of State of Palestine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of State of Palestine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000458"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000644 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000644">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Guinea-Bissau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Guinea-Bissau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000459"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000645 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000645">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint Kitts and Nevis</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint Kitts and Nevis</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000460"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000646 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000646">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Somalia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Somalia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000461"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000647 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000647">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Holy See</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Holy See</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000462"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000648 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000648">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Afghanistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Afghanistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000463"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000649 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000649">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Georgia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Georgia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000464"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000650 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000650">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Côte d'Ivoire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Côte d'Ivoire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000465"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000651 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000651">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Republic of Abkhazia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Republic of Abkhazia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000466"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000652 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000652">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000467"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000653 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000653">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bahrain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bahrain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000468"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000654 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000654">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Morocco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Morocco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000469"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000655 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000655">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000470"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000656 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000656">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Thailand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Thailand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000471"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000657 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000657">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Hungary</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Hungary</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000472"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000658 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000658">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Oman</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Oman</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000473"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000659 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000659">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Burundi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Burundi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000474"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000660 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000660">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Cabo Verde</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Cabo Verde</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000475"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000661 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000661">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Norway</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Norway</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000476"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000662 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000662">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Lithuania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Lithuania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000477"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000663 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000663">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Angola</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Angola</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000478"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000664 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000664">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Madagascar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Madagascar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000665 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000665">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Netherlands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Netherlands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000480"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000666 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000666">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mali</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mali</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000481"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000667 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000667">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kuwait</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kuwait</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000482"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000668 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000668">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Portugal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Portugal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000483"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000669 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000669">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Peru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Peru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000484"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000670 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000670">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000485"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000671 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000671">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Malta</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Malta</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000486"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000672 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000672">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ukraine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ukraine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000487"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000673 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000673">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kazakhstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kazakhstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000488"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000674 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000674">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Zambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Zambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000489"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000675 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000675">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Belarus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Belarus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000490"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000676 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000676">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000491"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000677 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000677">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Greece</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Greece</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000492"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000678 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000678">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Monaco</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Monaco</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000493"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000679 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000679">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Nepal</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Nepal</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000494"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000680 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000680">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bosnia and Herzegovina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bosnia and Herzegovina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000495"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000681 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000681">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mongolia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mongolia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000496"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000682 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000682">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000497"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000683 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000683">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Lao People's Democratic Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Lao People's Democratic Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000498"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000684 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000684">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Vanuatu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Vanuatu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000499"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000685 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000685">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bhutan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bhutan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000500"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000686 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000686">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Micronesia (Federated States of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Micronesia (Federated States of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000501"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000687 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000687">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000502"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000688 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000688">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Marshall Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Marshall Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000503"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000689 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000689">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Equatorial Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Equatorial Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000504"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000690 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000690">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Namibia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Namibia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000505"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000691 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000691">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Guyana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Guyana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000506"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000692 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000692">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Germany</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Germany</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000507"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000693 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000693">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Croatia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Croatia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000508"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000694 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000694">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Sri Lanka</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Sri Lanka</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000509"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000695 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000695">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Niger</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Niger</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000510"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000696 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000696">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saudi Arabia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saudi Arabia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000511"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000697 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000697">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Spain</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Spain</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000512"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000698 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000698">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Iceland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Iceland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000513"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000699 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000699">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Republic of Moldova</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Republic of Moldova</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000514"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000700 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000700">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000515"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000701 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000701">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000516"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000702 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000702">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Saint Lucia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Saint Lucia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000517"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000703 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000703">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Algeria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Algeria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000518"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000704 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000704">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Antigua and Barbuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Antigua and Barbuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000519"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000705 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000705">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Armenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Armenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000520"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000706 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000706">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Palau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Palau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000521"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000707 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000707">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000522"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000708 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000708">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of United Arab Emirates</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of United Arab Emirates</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000523"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000709 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000709">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bangladesh</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bangladesh</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000524"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000710 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000710">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kenya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kenya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000525"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000711 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000711">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Solomon Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Solomon Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000526"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000712 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000712">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Slovakia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Slovakia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000527"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000713 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000713">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Yemen</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Yemen</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000528"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000714 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000714">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Libyan Arab Jamahiriya</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Libyan Arab Jamahiriya</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000529"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000715 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000715">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Turkey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Turkey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000530"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000716 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000716">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Azerbaijan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Azerbaijan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000531"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000717 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000717">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000532"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000718 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000718">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Cyprus</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Cyprus</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000533"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000719 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000719">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of France</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of France</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000534"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000720 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000720">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Russian Federation</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Russian Federation</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000535"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000721 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000721">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000536"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000722 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000722">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Latvia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Latvia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000537"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000723 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000723">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mauritius</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mauritius</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000538"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000724 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000724">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Cameroon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Cameroon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000539"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000725 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000725">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Iraq</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Iraq</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000540"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000726 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000726">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Nagorno-Karabakh Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Nagorno-Karabakh Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000541"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000727 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000727">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mauritania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mauritania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000542"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000728 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000728">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Japan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Japan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000543"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000729 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000729">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Turkmenistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Turkmenistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000544"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000730 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000730">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of China</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of China</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000545"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000731 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000731">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ethiopia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ethiopia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000546"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000732 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000732">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Comoros</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Comoros</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000547"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000733 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000733">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Slovenia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Slovenia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000548"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000734 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000734">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Gambia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Gambia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000549"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000735 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000735">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Timor-Leste</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Timor-Leste</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000550"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000736 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000736">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Estonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Estonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000551"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000737 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000737">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000552"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000738 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000738">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Malawi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Malawi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000553"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000739 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000739">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of San Marino</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of San Marino</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000554"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000740 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000740">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of South Africa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of South Africa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000555"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000741 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000741">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Sweden</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Sweden</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000556"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000742 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000742">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Rwanda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Rwanda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000557"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000743 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000743">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tuvalu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tuvalu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000558"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000744 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000744">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Djibouti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Djibouti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000559"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000745 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000745">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Malaysia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Malaysia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000560"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000746 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000746">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Somaliland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Somaliland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000561"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000747 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000747">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bulgaria</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bulgaria</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000562"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000748 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000748">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Philippines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Philippines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000563"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000749 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000749">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Jordan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Jordan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000564"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000750 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000750">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Israel</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Israel</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000565"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000751 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000751">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Uzbekistan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Uzbekistan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000566"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000752 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000752">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Indonesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Indonesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000567"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000753 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000753">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Seychelles</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Seychelles</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000568"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000754 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000754">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tonga</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tonga</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000569"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000755 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000755">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Zimbabwe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Zimbabwe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000570"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000756 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000756">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Myanmar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Myanmar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000571"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000757 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000757">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000572"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000758 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000758">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Brunei Darussalam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Brunei Darussalam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000573"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000759 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000759">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000574"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000760 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000760">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Maldives</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Maldives</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000575"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000761 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000761">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Sudan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Sudan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000576"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000762 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000762">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of New Zealand</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of New Zealand</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000577"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000763 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000763">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Montenegro </rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Montenegro </obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000578"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000764 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000764">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Belgium</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Belgium</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000579"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000765 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000765">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Lesotho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Lesotho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000580"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000766 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000766">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000581"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000767 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000767">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000582"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000768 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000768">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Burkina Faso</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Burkina Faso</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000583"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000769 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000769">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Egypt</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Egypt</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000584"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000770 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000770">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Republic of South Ossetia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Republic of South Ossetia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000585"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000771 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000771">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kiribati</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kiribati</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000586"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000772 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000772">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Czech Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Czech Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000587"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000773 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000773">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Albania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Albania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000588"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000774 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000774">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000589"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000775 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000775">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000590"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000776 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000776">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Viet Nam</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Viet Nam</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000591"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000777 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000777">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mozambique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mozambique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000592"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000778 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000778">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Uruguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Uruguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000593"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000779 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000779">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Sao Tome and Principe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Sao Tome and Principe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000594"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000780 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000780">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000595"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000781 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000781">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kyrgyzstan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kyrgyzstan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000596"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000782 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000782">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Swaziland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Swaziland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000597"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000783 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000783">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Bahamas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Bahamas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000598"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000784 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000784">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Finland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Finland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000599"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000785 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000785">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Lebanon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Lebanon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000600"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000786 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000786">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Papua New Guinea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Papua New Guinea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000601"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000787 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000787">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ghana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ghana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000602"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000788 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000788">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Qatar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Qatar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000603"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000789 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000789">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000604"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000790 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000790">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of United Kingdom of Great Britain and Northern Ireland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of United Kingdom of Great Britain and Northern Ireland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000605"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000791 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000791">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Luxembourg</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Luxembourg</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000606"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000792 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000792">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Republic of Korea</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Republic of Korea</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000607"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000793 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000793">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Serbia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Serbia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000608"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000000794 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000000794">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Central African Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Central African Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000609"/>
+	</owl:NamedIndividual>
+
+
+

@@ -1,0 +1,605 @@
+	<!-- http://www.pitt.edu/obc/IDE_00000001090 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001090">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kauaʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kauaʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001035"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001091 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001091">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Wyoming</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Wyoming</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001036"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001092 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001092">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Molokaʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Molokaʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001037"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001093 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001093">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kentucky</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kentucky</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001038"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001094 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001094">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Minnesota</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Minnesota</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001039"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001095 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001095">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kansas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kansas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001040"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001096 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001096">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Iowa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Iowa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001041"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001097 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001097">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in New Jersey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of New Jersey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001042"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001098 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001098">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Kahoʻolawe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Kahoʻolawe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001043"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001099 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001099">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in New York</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of New York</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001044"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001100 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001100">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Washington (US state)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Washington (US state)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001045"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001101 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001101">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in North Dakota</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of North Dakota</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001046"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001102 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001102">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Arizona</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Arizona</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001047"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001103 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001103">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in West Virginia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of West Virginia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001048"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001104 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001104">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Delaware</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Delaware</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001049"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001105 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001105">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Montana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Montana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001050"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001106 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001106">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Nevada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Nevada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001051"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001107 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001107">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Oklahoma</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Oklahoma</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001052"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001108 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001108">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in New Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of New Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001053"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001109 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001109">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Oʻahu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Oʻahu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001054"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001110 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001110">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Idaho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Idaho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001055"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001111 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001111">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Vermont</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Vermont</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001056"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001112 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001112">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tennessee</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tennessee</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001057"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001113 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001113">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Hawaiʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Hawaiʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001058"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001114 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001114">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Utah</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Utah</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001059"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001115 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001115">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Missouri</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Missouri</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001060"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001116 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001116">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Niʻihau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Niʻihau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001061"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001117 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001117">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Maui</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Maui</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001062"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001118 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001118">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Illinois</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Illinois</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001063"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001119 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001119">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Nebraska</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Nebraska</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001064"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001120 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001120">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Georgia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Georgia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001065"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001121 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001121">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Connecticut</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Connecticut</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001066"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001122 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001122">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Lānaʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Lānaʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001067"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001123 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001123">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Indiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Indiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001068"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001124 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001124">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Virginia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Virginia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001069"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001125 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001125">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Texas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Texas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001070"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001126 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001126">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in North Carolina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of North Carolina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001071"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001127 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001127">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ohio</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ohio</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001072"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001128 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001128">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Washington D.C.</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Washington D.C.</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001073"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001129 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001129">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Arkansas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Arkansas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001074"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001130 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001130">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Louisiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Louisiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001075"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001131 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001131">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Colorado</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Colorado</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001076"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001132 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001132">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in New Hampshire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of New Hampshire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001077"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001133 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001133">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in South Dakota</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of South Dakota</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001078"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001134 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001134">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in South Carolina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of South Carolina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001079"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001135 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001135">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Rhode Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Rhode Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001080"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001136 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001136">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Alabama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Alabama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001081"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001137 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001137">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mississippi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mississippi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001082"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001138 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001138">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Alaska</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Alaska</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001083"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001139 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001139">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Massachusetts</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Massachusetts</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001084"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001140 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001140">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Michigan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Michigan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001085"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001141 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001141">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Oregon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Oregon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001086"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001142 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001142">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Maine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Maine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001087"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001143 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001143">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Maryland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Maryland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001088"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001144 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001144">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Wisconsin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Wisconsin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001089"/>
+	</owl:NamedIndividual>
+
+
+

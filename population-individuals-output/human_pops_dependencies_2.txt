@@ -1,0 +1,363 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000001456 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001456">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001459 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001459">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Jersey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Jersey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001458"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001462 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001462">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in China, Macao Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of China, Macao Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001461"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001465 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001465">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Sint Maarten (Dutch part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Sint Maarten (Dutch part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001464"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001468 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001468">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint Pierre and Miquelon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint Pierre and Miquelon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001467"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001471 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001471">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Gibraltar</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Gibraltar</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001470"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001474 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001474">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Faeroe Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Faeroe Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001473"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001477 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001477">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tristan da Cunha</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tristan da Cunha</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001476"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001480 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001480">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001483 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001483">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tokelau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tokelau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001482"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001486 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001486">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Niue</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Niue</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001485"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001489 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001489">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Norfolk Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Norfolk Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001488"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001492 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001492">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Wallis and Futuna Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Wallis and Futuna Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001491"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001495 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001495">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Réunion</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Réunion</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001494"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001498 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001498">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint Helena</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint Helena</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001497"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001501 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001501">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Isle of Man</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Isle of Man</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001500"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001504 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001504">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint-Martin (French part)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint-Martin (French part)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001503"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001507 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001507">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Svalbard and Jan Mayen Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Svalbard and Jan Mayen Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001506"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001510 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001510">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Åland Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Åland Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001509"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001513 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001513">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Curaçao</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Curaçao</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001512"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001516 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001516">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Guernsey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Guernsey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001515"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001519 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001519">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Tristan da Cunha Island Group</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Tristan da Cunha Island Group</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001518"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001522 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001522">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in China, Hong Kong Special Administrative Region</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of China, Hong Kong Special Administrative Region</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001521"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001525 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001525">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Ascension Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Ascension Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001524"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001528 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001528">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Pitcairn</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Pitcairn</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001527"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001531 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001531">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Montserrat </rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Montserrat </obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001530"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001534 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001534">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Falkland Islands (Malvinas)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Falkland Islands (Malvinas)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001533"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001537 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001537">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Greenland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Greenland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001536"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001540 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001540">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Cook Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Cook Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001539"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001543 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001543">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in New Caledonia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of New Caledonia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001542"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001546 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001546">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Occupied Palestinian Territory</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Occupied Palestinian Territory</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001545"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001549 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001549">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in Saint Helena Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of Saint Helena Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001548"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001552 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001552">
+		<rdf:type rdf:resource="&obc;IDE_0000000017"/>
+		<rdfs:label xml:lang="en">humans in French Polynesia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">human population in region of French Polynesia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001551"/>
+	</owl:NamedIndividual>
+
+
+

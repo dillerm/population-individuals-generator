@@ -1,0 +1,605 @@
+	<!-- http://www.pitt.edu/obc/IDE_0000001567 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001567">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Cayman Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Cayman Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001182"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001568 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001568">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Virgin Islands of the United States</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Virgin Islands of the United States</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001170"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001569 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001569">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Saint-Barthélemy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Saint-Barthélemy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001455"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001570 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001570">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Jamaica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Jamaica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000766"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001571 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001571">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Costa Rica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Costa Rica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000774"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001572 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001572">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Cuba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Cuba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000789"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001573 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001573">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Dominican Republic</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Dominican Republic</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000701"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001574 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001574">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in British Virgin Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of British Virgin Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001180"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001575 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001575">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Sint Maarten</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Sint Maarten</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001196"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001576 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001576">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Guyana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Guyana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000691"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001577 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001577">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Panama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Panama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000655"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001578 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001578">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Ecuador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Ecuador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000717"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001579 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001579">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Saint Vincent and the Grenadines</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Saint Vincent and the Grenadines</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000615"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001580 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001580">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Mayotte</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Mayotte</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001479"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001581 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001581">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Aruba</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Aruba</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001175"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001582 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001582">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Saint Martin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Saint Martin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001194"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001583 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001583">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Tanzania</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Tanzania</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000394"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001584 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001584">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Belize</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Belize</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000670"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001585 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001585">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Curaçao</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Curaçao</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001512"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001586 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001586">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Paraguay</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Paraguay</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000775"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001587 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001587">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Bahamas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Bahamas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000783"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001588 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001588">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in El Salvador</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of El Salvador</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000652"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001589 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001589">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Guatemala</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Guatemala</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000757"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001590 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001590">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Puerto Rico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Puerto Rico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000139"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001591 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001591">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Colombia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Colombia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000133"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001592 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001592">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Nicaragua</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Nicaragua</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000621"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001593 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001593">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Venezuela</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Venezuela</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000147"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001594 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001594">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Brazil</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Brazil</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000047"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001595 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001595">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Cambodia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Cambodia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000737"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001596 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001596">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in French Guiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of French Guiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001184"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001597 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001597">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Antigua and Barbuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Antigua and Barbuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000704"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001598 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001598">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000759"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001599 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001599">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Grenada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Grenada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000636"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001600 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001600">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Montserrat</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Montserrat</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001190"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001601 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001601">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Canada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Canada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000355"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001602 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001602">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in the United States</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of the United States</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000023"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001603 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001603">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Guadeloupe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Guadeloupe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001186"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001604 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001604">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Argentina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Argentina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000617"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001605 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001605">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Peru</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Peru</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000669"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001606 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001606">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Suriname</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Suriname</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000707"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001607 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001607">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Honduras</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Honduras</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000682"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001608 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001608">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Turks and Caicos Islands</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Turks and Caicos Islands</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001198"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001609 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001609">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Haiti</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Haiti</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000721"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001610 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001610">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Martinique</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Martinique</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001188"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001611 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001611">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Barbados</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Barbados</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000767"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001612 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001612">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Réunion</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Réunion</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001494"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001613 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001613">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Bermuda</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Bermuda</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001178"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001614 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001614">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Bolivia (Plurinational State of)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Bolivia (Plurinational State of)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000622"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001615 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001615">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Saint Lucia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Saint Lucia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000702"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001616 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001616">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Trinidad and Tobago</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Trinidad and Tobago</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000676"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001617 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001617">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Chile</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Chile</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000687"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001618 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001618">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Anguilla</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Anguilla</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000001173"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001619 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001619">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Saint Kitts and Nevis</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Saint Kitts and Nevis</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000645"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001620 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001620">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Italy</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Italy</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000641"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_0000001621 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_0000001621">
+		<rdf:type rdf:resource="&obc;IDE_0000000004"/>
+		<rdfs:label xml:lang="en">Chikungunya virus in Dominica</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">Chikungunya virus population in region of Dominica</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000700"/>
+	</owl:NamedIndividual>
+
+
+

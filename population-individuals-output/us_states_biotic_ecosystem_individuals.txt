@@ -1,0 +1,605 @@
+	<!-- http://www.pitt.edu/obc/IDE_00000001035 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001035">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kauaʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kauaʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000980"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001036 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001036">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Wyoming</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Wyoming</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000981"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001037 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001037">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Molokaʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Molokaʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000982"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001038 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001038">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kentucky</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kentucky</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000983"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001039 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001039">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Minnesota</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Minnesota</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000984"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001040 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001040">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kansas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kansas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000985"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001041 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001041">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Iowa</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Iowa</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000986"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001042 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001042">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of New Jersey</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of New Jersey</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000987"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001043 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001043">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Kahoʻolawe</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Kahoʻolawe</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000988"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001044 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001044">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of New York</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of New York</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000989"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001045 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001045">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Washington (US state)</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Washington (US state)</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000990"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001046 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001046">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of North Dakota</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of North Dakota</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000991"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001047 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001047">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Arizona</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Arizona</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000992"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001048 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001048">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of West Virginia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of West Virginia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000993"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001049 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001049">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Delaware</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Delaware</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000994"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001050 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001050">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Montana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Montana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000995"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001051 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001051">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Nevada</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Nevada</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000996"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001052 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001052">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Oklahoma</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Oklahoma</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000997"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001053 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001053">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of New Mexico</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of New Mexico</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000998"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001054 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001054">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Oʻahu</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Oʻahu</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_0000000999"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001055 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001055">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Idaho</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Idaho</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001000"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001056 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001056">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Vermont</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Vermont</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001001"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001057 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001057">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Tennessee</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Tennessee</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001002"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001058 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001058">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Hawaiʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Hawaiʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001003"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001059 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001059">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Utah</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Utah</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001004"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001060 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001060">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Missouri</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Missouri</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001005"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001061 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001061">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Niʻihau</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Niʻihau</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001006"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001062 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001062">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Maui</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Maui</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001007"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001063 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001063">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Illinois</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Illinois</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001008"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001064 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001064">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Nebraska</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Nebraska</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001009"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001065 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001065">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Georgia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Georgia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001010"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001066 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001066">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Connecticut</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Connecticut</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001011"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001067 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001067">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Lānaʻi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Lānaʻi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001012"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001068 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001068">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Indiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Indiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001013"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001069 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001069">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Virginia</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Virginia</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001014"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001070 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001070">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Texas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Texas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001015"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001071 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001071">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of North Carolina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of North Carolina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001016"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001072 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001072">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Ohio</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Ohio</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001017"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001073 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001073">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Washington D.C.</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Washington D.C.</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001018"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001074 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001074">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Arkansas</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Arkansas</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001019"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001075 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001075">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Louisiana</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Louisiana</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001020"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001076 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001076">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Colorado</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Colorado</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001021"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001077 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001077">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of New Hampshire</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of New Hampshire</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001022"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001078 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001078">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of South Dakota</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of South Dakota</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001023"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001079 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001079">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of South Carolina</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of South Carolina</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001024"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001080 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001080">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Rhode Island</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Rhode Island</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001025"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001081 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001081">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Alabama</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Alabama</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001026"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001082 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001082">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Mississippi</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Mississippi</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001027"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001083 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001083">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Alaska</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Alaska</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001028"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001084 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001084">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Massachusetts</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Massachusetts</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001029"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001085 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001085">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Michigan</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Michigan</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001030"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001086 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001086">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Oregon</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Oregon</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001031"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001087 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001087">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Maine</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Maine</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001032"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001088 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001088">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Maryland</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Maryland</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001033"/>
+	</owl:NamedIndividual>
+
+
+
+	<!-- http://www.pitt.edu/obc/IDE_00000001089 -->
+
+	<owl:NamedIndividual rdf:about="&obc;IDE_00000001089">
+		<rdf:type rdf:resource="&obo;APOLLO_SV_00000104"/>
+		<rdfs:label xml:lang="en">biotic ecosystem of Wisconsin</rdfs:label>
+		<obo:IAO_0000111 xml:lang="en">biotic ecosystem of region of Wisconsin</obo:IAO_0000111>
+		<obo:BFO_0000137 rdf:resource="&obc;IDE_00000001034"/>
+	</owl:NamedIndividual>
+
+
+

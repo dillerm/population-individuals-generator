@@ -1,36 +1,20 @@
 from rdflib import *
+import datetime as dt
 
 
-# Note: rdflib currently has pre-defined namespaces for RDF, XML, RDFS, FOAF, and DC, among other things
-# Defining Namespaces
+# Note: rdflib currently has pre-defined namespaces for RDF, XML, RDFS, FOAF, and DC, among other things.
+# Defined namespaces
 obo = "http://purl.obolibrary.org/obo/"
 obc = "http://www.pitt.edu/obc/"
 
-# Defining necessary IRIs
+# Necessary IRIs
 ecosystem_class_iri = "&obo;APOLLO_SV_00000097"
 biotic_ecosystem_class_iri = "&obo;APOLLO_SV_00000104"
-population_class_iri = "http://purl.obolibrary.org/obo/PCO_0000001"
+population_iri = "http://purl.obolibrary.org/obo/PCO_0000001"
 pathogen_population_class_iri = "http://www.pitt.edu/obc/IDE_0000000007"
 virus_population_class_iri = "http://www.pitt.edu/obc/IDE_0000000226"
 bacteria_population_class_iri = "http://www.pitt.edu/obc/IDE_0000000218"
 host_population_class_iri = "http://purl.obolibrary.org/obo/APOLLO_SV_00000516"
-fungus_pathogen_population_class_iri = "IDE_0000000222"
-homo_sapiens = "&obc;IDE_0000000017"
-aedes_aegypti = "&obc;IDE_0000001227"
-aedes_albopictus = "&obc;IDE_0000001228"
-culex_quinquefasciatus = "&obc;IDE_0000002175"
-dengue_virus = "&obc;IDE_0000000003"
-chikungunya_virus = "&obc;IDE_0000000004"
-influenza_virus = "&obc;IDE_0000000026"
-avian_influenza_virus = "&obc;IDE_0000000028"
-zika_virus = "&obc;IDE_0000000014"
-hiv_1 = "&obc;IDE_0000000229"
-mycobacterium_tuberculosis = "&obc;IDE_0000000173"
-hepatitis_a = "&obc;IDE_0000000232"
-hepatitis_b = "&obc;IDE_0000001732"
-hepatitis_c = "&obc;IDE_000000224"
-campylobacter = "&obc;IDE_0000001742"
-b_pertussis = "&obc;IDE_0000000233"
 
 
 if __name__ == "__main__":
@@ -41,25 +25,29 @@ if __name__ == "__main__":
                          "everything after the 'IDE_': ")
 
     ecosystems_prompt = input("Do you need to generate ecosystem individuals? [y/n] ")
-    #bio_ecosystems_prompt = input("Do you need to generate biotic ecosystem individuals? [y/n] ")
+    bio_ecosystems_prompt = input("Do you need to generate biotic ecosystem individuals? [y/n] ")
     populations_prompt = input("Do you need to generate population individuals? [y/n] ")
 
-    populations_needed = []
+    populations_needed, population_iris = list(), list()
 
     if populations_prompt == "y":
         population_species = input("List the species you'd like to create population individuals for. If there are "
                                    "multiple species, separate each with a semicolon: ")
+        population_class_iri = input("""Enter the IRI for the population class(es), excluding the namespace.
+        For example, for 'http://www.pitt.edu/obc/IDE_0000000218', only enter 'IDE_0000000218'.
+        """)
         species_needed = population_species.split("; ")
+        species_iris = "&obc;{}".format(population_class_iri.split("; "))
 
         for species in species_needed:
             populations_needed.append(species)
+        for iri in species_iris:
+            population_iris.append(iri)
 
+    iri_count = int(starting_iri)
 
-    count = int(starting_iri)
-
-    geo_individuals = dict() # For owl file input only
-    locations = set() # For txt file input only
-    species_in_obc = []
+    geo_individuals = dict() # For .owl file input only
+    locations = set() # For .txt file input only
 
     new_ecosystem_region = dict()
     uninhabited_regions = [
@@ -70,9 +58,9 @@ if __name__ == "__main__":
         "Inaccessible Island",
         "Gough Island"
     ]
-    new_ecosystem_indvs = []
-    new_biotic_ecosystem_indvs = []
-    new_species_indvs = []
+    new_ecosystem_indvs = list()
+    new_biotic_ecosystem_indvs = list()
+    new_species_indvs = list()
 
     # Pull out regions from file
     if ".owl" in geo_input:
@@ -94,12 +82,12 @@ if __name__ == "__main__":
 
                     except Exception : continue
 
-            # Check for ecosystem individuals
-            ecosystem_regions_in_obc = []
+            ecosystem_regions_in_obc = list()
 
             g2 = Graph()
             ide = g2.parse(obc_hand)
 
+            # Check for ecosystem individuals
             for s, p, o in ide:
                 if "NamedIndividual" in o:
                     try:
@@ -118,7 +106,7 @@ if __name__ == "__main__":
                 if key not in ecosystem_regions_in_obc:
                     new_ecosystem_region[key] = value
 
-            # Ecosystem and biotic ecosystem individuals for each country in the world
+            # Generate ecosystem and biotic ecosystem individuals for each country in the world
             for region, iri in list(new_ecosystem_region.items()):
                 eco_dict = dict()
                 biotic_eco_dict = dict()
@@ -126,64 +114,43 @@ if __name__ == "__main__":
                 eco_dict["label"] = "ecosystem of " + region
                 eco_dict["preferredTerm"] = "ecosystem of region of " + region
                 eco_dict["location"] = iri
-                eco_dict["iri"] = "IDE_000000" + str(count)
+                eco_dict["iri"] = "IDE_000000" + str(iri_count)
                 eco_dict["type"] = ecosystem_class_iri
 
                 new_ecosystem_indvs.append(eco_dict)
-                count += 1
+                iri_count += 1
 
                 part_of = eco_dict.get("iri")
 
                 biotic_eco_dict["label"] = "biotic ecosystem of " + region
                 biotic_eco_dict["preferredTerm"] = "biotic ecosystem of region of " + region
                 biotic_eco_dict["partOf"] = part_of
-                biotic_eco_dict["iri"] = "IDE_000000" + str(count)
+                biotic_eco_dict["iri"] = "IDE_000000" + str(iri_count)
                 biotic_eco_dict["type"] = biotic_ecosystem_class_iri
 
                 new_biotic_ecosystem_indvs.append(biotic_eco_dict)
-                count += 1
+                iri_count += 1
 
-                if len(populations_needed) > 0:
+                if populations_needed:
                     for population in populations_needed:
                         species_dict = dict()
+                        i = populations_needed.index(population)
 
-                        if population == "Humans" or population == "humans":
-                            species_dict["type"] = homo_sapiens
-                            species_dict["preferredTerm"] = "human population in region of " + region
-                        if population == "Aedes aegypti" or population == "aedes aegypti":
-                            species_dict["type"] = aedes_aegypti
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-                        if population == "Aedes albopictus" or population == "aedes albopictus":
-                            species_dict["type"] = aedes_albopictus
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-                        if population == "Dengue virus" or population == "dengue virus":
-                            species_dict["type"] = dengue_virus
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-                        if population == "Chikungunya virus" or population == "chikungunya virus":
-                            species_dict["type"] = chikungunya_virus
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-                        if population == "Influenza virus" or population == "influenza virus":
-                            species_dict["type"] = influenza_virus
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-                        if population == "Avian influenza virus" or population == "avian influenza virus":
-                            species_dict["type"] = avian_influenza_virus
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-                        if population == "Zika virus" or population == "zika virus":
-                            species_dict["type"] = zika_virus
-                            species_dict["preferredTerm"] = population + " population in region of " + region
-
+                        species_dict["type"] = population_iris[i]
+                        species_dict["preferredTerm"] = "human population in region of " + region
                         species_dict["label"] = population + " in " + region
                         species_dict["partOf"] = biotic_eco_dict.get("iri")
-                        species_dict["iri"] = "IDE_000000" + str(count)
+                        species_dict["iri"] = "IDE_000000" + str(iri_count)
 
                         new_species_indvs.append(species_dict)
-                        count += 1
+                        iri_count += 1
 
     elif ".txt" in geo_input:
         with open(geo_input) as f:
             for line in f:
                 line = line.rstrip()
 
+                # Normalize country names to the labels used in GEO.
                 if line == "United States of America" \
                         or line == "US" \
                         or line == "USA":
@@ -316,65 +283,17 @@ if __name__ == "__main__":
                                 pop_dict = dict()
 
                                 ecosystem_iri = g.qname(s)
+                                i = populations_needed.index(population)
 
-                                if population.lower() == "humans":
-                                    pop_dict["type"] = homo_sapiens
-                                    pop_dict["preferredTerm"] = "human population in region of " + region
-                                if population.lower() == "Aedes aegypti" or population == "aedes aegypti":
-                                    pop_dict["type"] = aedes_aegypti
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Aedes albopictus" or population == "aedes albopictus":
-                                    pop_dict["type"] = aedes_albopictus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Dengue virus" or population == "dengue virus":
-                                    pop_dict["type"] = dengue_virus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Chikungunya virus" or population == "chikungunya virus":
-                                    pop_dict["type"] = chikungunya_virus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Influenza virus" or population == "influenza virus":
-                                    pop_dict["type"] = influenza_virus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Avian influenza virus" or population == "avian influenza virus":
-                                    pop_dict["type"] = avian_influenza_virus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Zika virus" or population == "zika virus":
-                                    pop_dict["type"] = zika_virus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Culex quinquefasciatus" or population == "culex quinquefasciatus":
-                                    pop_dict["type"] = culex_quinquefasciatus
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "HIV-1" or population == "Human immunodeficiency virus 1":
-                                    pop_dict["type"] = hiv_1
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Mycobacterium tuberculosis" or population == "mycobacterium tuberculosis":
-                                    pop_dict["type"] = mycobacterium_tuberculosis
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Hepatitis B virus":
-                                    pop_dict["type"] = hepatitis_b
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Campylobacter":
-                                    pop_dict["type"] = campylobacter
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Bordetella pertussis":
-                                    pop_dict["type"] = b_pertussis
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Hepatitis A virus":
-                                    pop_dict["type"] = hepatitis_a
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Hepatitis B virus":
-                                    pop_dict["type"] = hepatitis_b
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
-                                if population.lower() == "Hepatitis C virus":
-                                    pop_dict["type"] = hepatitis_c
-                                    pop_dict["preferredTerm"] = population + " population in region of " + region
 
+                                pop_dict["type"] = population_iris[i]
+                                pop_dict["preferredTerm"] = "human population in region of " + region
                                 pop_dict["label"] = population + " in " + region
                                 pop_dict["partOf"] = ecosystem_iri.replace(":", ";")
-                                pop_dict["iri"] = "IDE_000000" + str(count)
+                                pop_dict["iri"] = "IDE_000000" + str(iri_count)
 
                                 new_species_indvs.append(pop_dict)
-                                count += 1
+                                iri_count += 1
                         else:
                             print(region, " not found in GEO.")
                 except Exception : continue
@@ -390,7 +309,7 @@ if __name__ == "__main__":
         g = Graph()
         ide = g.parse(obc_hand)
 
-        population_iri_generators = []
+        population_iri_generators = list()
 
         # Grab the IRIs for population classes
         pop_classes = g.transitive_subjects(predicate=RDFS.subClassOf, object=URIRef(population_class_iri))
@@ -418,8 +337,8 @@ if __name__ == "__main__":
             for iri in generator:
                 population_iris.add(iri)
 
-        already_found_iri = []
-        already_found_label = []
+        already_found_iri = list()
+        already_found_label = list()
 
         for s, p, o in ide:
             if "NamedIndividual" in o:
@@ -448,7 +367,7 @@ if __name__ == "__main__":
                         for key, value in new_ecosystem_region.items():
                             pop_dict = dict()
 
-                            pop_dict["iri"] = "IDE_000000" + str(count)
+                            pop_dict["iri"] = "IDE_000000" + str(iri_count)
                             pop_dict["label"] = population_label + " in " + key
                             pop_dict["partOf"] = value.replace(":", ";")
                             pop_dict["type"] = s.toPython()
@@ -456,12 +375,17 @@ if __name__ == "__main__":
 
                             already_found_iri.append(s)
                             new_species_indvs.append(pop_dict)
-                            count += 1
+                            iri_count += 1
                 except Exception : continue
 
+    today = dt.datetime.today().strftime("%Y_%m_%d_T%H_%M")
 
     if ecosystems_prompt == "y":
-        with open("population-individuals-output/dependency_ecosystem_individuals.txt", "a") as ind_f:
+        ecosystem_output_directory = "population-individuals-output/"
+        ecosystem_output_fname = "dependency_ecosystem_individuals_{}.txt".format(today)
+        ecosystem_output_location = ecosystem_output_directory + ecosystem_output_fname
+
+        with open(ecosystem_output_location, "a") as ind_f:
             for dct in new_ecosystem_indvs:
                 iri = dct.get("iri")
                 type = dct.get("type")
@@ -479,7 +403,11 @@ if __name__ == "__main__":
                     "\t" + "</owl:NamedIndividual>" + "\n" + "\n" + "\n" + "\n"
                 )
 
-        with open("population-individuals-output/dependency_biotic_ecosystem_individuals.txt", "a") as ind_f:
+        biotic_ecosystem_output_directory = "population-individuals-output/"
+        biotic_ecosystem_output_fname = "dependency_biotic_ecosystem_individuals_{}.txt".format(today)
+        biotic_ecosystem_output_location = biotic_ecosystem_output_directory + biotic_ecosystem_output_fname
+
+        with open(biotic_ecosystem_output_location, "a") as ind_f:
              for dct in new_biotic_ecosystem_indvs:
                     iri = dct.get("iri")
                     type = dct.get("type")
@@ -498,7 +426,11 @@ if __name__ == "__main__":
                     )
 
     if populations_prompt == "y":
-        with open("population-individuals-output/HCV-mdc-2018-04-16.txt", "a") as ind_f:
+        populations_output_directory = "population-individuals-output/"
+        populations_output_fname = "population_individuals_{}.txt".format(today)
+        populations_output_location = populations_output_directory + populations_output_fname
+
+        with open(populations_output_location, "a") as ind_f:
              for dct in new_species_indvs:
                  iri = dct.get("iri")
                  type = dct.get("type")
